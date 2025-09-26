@@ -41,7 +41,7 @@ namespace OOP_To_Do_List
                                 {
                                     Console.Write("Hangi görevi tamamlamak istiyorsunuz: ");
                                     var secilenString = Console.ReadLine();
-                                    if (int.TryParse(secilenString, out secilen) && secilen < liste.Count())
+                                    if (int.TryParse(secilenString, out secilen) && secilen <= liste.Count())
                                     {
                                         liste[secilen - 1].Durum = true;
                                         Console.WriteLine("Görevinizi tamamladığınız için teşekkürler.");
@@ -66,7 +66,7 @@ namespace OOP_To_Do_List
                                 {
                                     Console.Write("Hangi görevi güncellemek istiyorsunuz: ");
                                     var secilenString = Console.ReadLine();
-                                    if (int.TryParse(secilenString, out secilen) && secilen < liste.Count())
+                                    if (int.TryParse(secilenString, out secilen) && secilen <= liste.Count())
                                     {
                                         liste.RemoveAt(secilen - 1);
                                         Console.Write("Görevinizin güncel halini yazınız: ");
@@ -94,7 +94,7 @@ namespace OOP_To_Do_List
                                 {
                                     Console.Write("Hangi görevi silmek istiyorsunuz: ");
                                     var secilenString = Console.ReadLine();
-                                    if (int.TryParse(secilenString, out secilen) && secilen < liste.Count())
+                                    if (int.TryParse(secilenString, out secilen) && secilen <= liste.Count())
                                     {
                                         liste.RemoveAt(secilen - 1);
                                         break;
