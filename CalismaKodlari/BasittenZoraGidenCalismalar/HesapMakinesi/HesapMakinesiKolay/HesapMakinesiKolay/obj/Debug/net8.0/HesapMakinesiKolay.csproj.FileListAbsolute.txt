@@ -1,0 +1,14 @@
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\bin\Debug\net8.0\HesapMakinesiKolay.exe
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\bin\Debug\net8.0\HesapMakinesiKolay.deps.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\bin\Debug\net8.0\HesapMakinesiKolay.runtimeconfig.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\bin\Debug\net8.0\HesapMakinesiKolay.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\bin\Debug\net8.0\HesapMakinesiKolay.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\obj\Debug\net8.0\HesapMakinesiKolay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\obj\Debug\net8.0\HesapMakinesiKolay.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\obj\Debug\net8.0\HesapMakinesiKolay.AssemblyInfo.cs
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\obj\Debug\net8.0\HesapMakinesiKolay.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\obj\Debug\net8.0\HesapMakinesiKolay.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\obj\Debug\net8.0\refint\HesapMakinesiKolay.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\obj\Debug\net8.0\HesapMakinesiKolay.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\obj\Debug\net8.0\HesapMakinesiKolay.genruntimeconfig.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HesapMakinesi\HesapMakinesiKolay\HesapMakinesiKolay\obj\Debug\net8.0\ref\HesapMakinesiKolay.dll

@@ -19,7 +19,7 @@
                     }
                     else
                     {
-                        Console.Write("Hatalı giriş yaptınız Lütfen sayı giriniz: ");
+                        Console.Write("Hatalı giriş yaptınız, Lütfen sayı giriniz: ");
                         sayi1String = Console.ReadLine();
                     }
                 } while (true);
@@ -33,7 +33,7 @@
                     }
                     else
                     {
-                        Console.Write("Hatalı giriş yaptınız Lütfen sayı giriniz: ");
+                        Console.Write("Hatalı giriş yaptınız, Lütfen sayı giriniz: ");
                         sayi2String = Console.ReadLine();
                     }
                 }while (true);
