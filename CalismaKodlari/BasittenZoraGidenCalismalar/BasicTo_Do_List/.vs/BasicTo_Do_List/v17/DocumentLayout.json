@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BasicTo_Do_List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB9EC9B-7080-4941-A542-52FAE8D9967F}|OOP_To_Do_List\\OOP_To_Do_List.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\basicto_do_list\\oop_to_do_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB9EC9B-7080-4941-A542-52FAE8D9967F}|OOP_To_Do_List\\OOP_To_Do_List.csproj|solutionrelative:oop_to_do_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB9EC9B-7080-4941-A542-52FAE8D9967F}|OOP_To_Do_List\\OOP_To_Do_List.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\basicto_do_list\\oop_to_do_list\\gorev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB9EC9B-7080-4941-A542-52FAE8D9967F}|OOP_To_Do_List\\OOP_To_Do_List.csproj|solutionrelative:oop_to_do_list\\gorev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0362BED-A361-499A-8DCD-22228BE1B53D}|BasicTo_Do_List\\BasicTo_Do_List.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\basicto_do_list\\basicto_do_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0362BED-A361-499A-8DCD-22228BE1B53D}|BasicTo_Do_List\\BasicTo_Do_List.csproj|solutionrelative:basicto_do_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gorev.cs",
+              "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BasicTo_Do_List\\OOP_To_Do_List\\Gorev.cs",
+              "RelativeDocumentMoniker": "OOP_To_Do_List\\Gorev.cs",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BasicTo_Do_List\\OOP_To_Do_List\\Gorev.cs",
+              "RelativeToolTip": "OOP_To_Do_List\\Gorev.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA3wDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:18:29.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BasicTo_Do_List\\OOP_To_Do_List\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_To_Do_List\\Program.cs",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BasicTo_Do_List\\OOP_To_Do_List\\Program.cs",
+              "RelativeToolTip": "OOP_To_Do_List\\Program.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwIYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:17:52.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BasicTo_Do_List\\BasicTo_Do_List\\Program.cs",
+              "RelativeDocumentMoniker": "BasicTo_Do_List\\Program.cs",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BasicTo_Do_List\\BasicTo_Do_List\\Program.cs",
+              "RelativeToolTip": "BasicTo_Do_List\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv3QAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:15:49.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
