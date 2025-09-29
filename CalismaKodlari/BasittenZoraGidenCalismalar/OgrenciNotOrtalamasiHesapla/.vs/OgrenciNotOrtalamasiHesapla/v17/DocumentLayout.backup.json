@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\OgrenciNotOrtalamasiHesapla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8481BEE7-8AC9-4734-BE4F-143A39DB979F}|OgrenciNotOrtalamasiHesapla\\OgrenciNotOrtalamasiHesapla.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\ogrencinotortalamasihesapla\\ogrencinotortalamasihesapla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8481BEE7-8AC9-4734-BE4F-143A39DB979F}|OgrenciNotOrtalamasiHesapla\\OgrenciNotOrtalamasiHesapla.csproj|solutionrelative:ogrencinotortalamasihesapla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\OgrenciNotOrtalamasiHesapla\\OgrenciNotOrtalamasiHesapla\\Program.cs",
+              "RelativeDocumentMoniker": "OgrenciNotOrtalamasiHesapla\\Program.cs",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\OgrenciNotOrtalamasiHesapla\\OgrenciNotOrtalamasiHesapla\\Program.cs*",
+              "RelativeToolTip": "OgrenciNotOrtalamasiHesapla\\Program.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwFAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:26:18.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
