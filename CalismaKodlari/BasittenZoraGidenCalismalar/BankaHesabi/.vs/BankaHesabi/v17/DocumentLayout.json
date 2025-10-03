@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BankaHesabi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27386630-C636-4B8B-99B1-547268EB7C71}|BankaHesabi\\BankaHesabi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\bankahesabi\\bankahesabi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27386630-C636-4B8B-99B1-547268EB7C71}|BankaHesabi\\BankaHesabi.csproj|solutionrelative:bankahesabi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27386630-C636-4B8B-99B1-547268EB7C71}|BankaHesabi\\BankaHesabi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\bankahesabi\\bankahesabi\\banka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27386630-C636-4B8B-99B1-547268EB7C71}|BankaHesabi\\BankaHesabi.csproj|solutionrelative:bankahesabi\\banka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banka.cs",
+              "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BankaHesabi\\BankaHesabi\\Banka.cs",
+              "RelativeDocumentMoniker": "BankaHesabi\\Banka.cs",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BankaHesabi\\BankaHesabi\\Banka.cs",
+              "RelativeToolTip": "BankaHesabi\\Banka.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwv0gAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:41:29.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BankaHesabi\\BankaHesabi\\Program.cs",
+              "RelativeDocumentMoniker": "BankaHesabi\\Program.cs",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\BankaHesabi\\BankaHesabi\\Program.cs",
+              "RelativeToolTip": "BankaHesabi\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:39:59.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

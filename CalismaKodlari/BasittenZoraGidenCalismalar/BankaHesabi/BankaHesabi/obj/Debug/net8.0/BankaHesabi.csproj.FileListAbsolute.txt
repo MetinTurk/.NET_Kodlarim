@@ -1,0 +1,15 @@
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\bin\Debug\net8.0\BankaHesabi.exe
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\bin\Debug\net8.0\BankaHesabi.deps.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\bin\Debug\net8.0\BankaHesabi.runtimeconfig.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\bin\Debug\net8.0\BankaHesabi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\bin\Debug\net8.0\BankaHesabi.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.AssemblyInfo.cs
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.sourcelink.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\obj\Debug\net8.0\refint\BankaHesabi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\obj\Debug\net8.0\BankaHesabi.genruntimeconfig.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\BankaHesabi\BankaHesabi\obj\Debug\net8.0\ref\BankaHesabi.dll
