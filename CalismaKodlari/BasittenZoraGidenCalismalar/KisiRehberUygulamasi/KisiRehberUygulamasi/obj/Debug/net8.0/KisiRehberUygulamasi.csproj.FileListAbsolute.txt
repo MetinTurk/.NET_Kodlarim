@@ -1,0 +1,15 @@
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\bin\Debug\net8.0\KisiRehberUygulamasi.exe
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\bin\Debug\net8.0\KisiRehberUygulamasi.deps.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\bin\Debug\net8.0\KisiRehberUygulamasi.runtimeconfig.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\bin\Debug\net8.0\KisiRehberUygulamasi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\bin\Debug\net8.0\KisiRehberUygulamasi.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\obj\Debug\net8.0\KisiRehberUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\obj\Debug\net8.0\KisiRehberUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\obj\Debug\net8.0\KisiRehberUygulamasi.AssemblyInfo.cs
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\obj\Debug\net8.0\KisiRehberUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\obj\Debug\net8.0\KisiRehberUygulamasi.sourcelink.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\obj\Debug\net8.0\KisiRehberUygulamasi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\obj\Debug\net8.0\refint\KisiRehberUygulamasi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\obj\Debug\net8.0\KisiRehberUygulamasi.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\obj\Debug\net8.0\KisiRehberUygulamasi.genruntimeconfig.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\KisiRehberUygulamasi\KisiRehberUygulamasi\obj\Debug\net8.0\ref\KisiRehberUygulamasi.dll

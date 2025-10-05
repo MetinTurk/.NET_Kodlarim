@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\KisiRehberUygulamasi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{99F969AB-615B-4263-A295-D27DB22E5A65}|KisiRehberUygulamasi\\KisiRehberUygulamasi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\kisirehberuygulamasi\\kisirehberuygulamasi\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F969AB-615B-4263-A295-D27DB22E5A65}|KisiRehberUygulamasi\\KisiRehberUygulamasi.csproj|solutionrelative:kisirehberuygulamasi\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99F969AB-615B-4263-A295-D27DB22E5A65}|KisiRehberUygulamasi\\KisiRehberUygulamasi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\kisirehberuygulamasi\\kisirehberuygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99F969AB-615B-4263-A295-D27DB22E5A65}|KisiRehberUygulamasi\\KisiRehberUygulamasi.csproj|solutionrelative:kisirehberuygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\KisiRehberUygulamasi\\KisiRehberUygulamasi\\Kisi.cs",
+              "RelativeDocumentMoniker": "KisiRehberUygulamasi\\Kisi.cs",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\KisiRehberUygulamasi\\KisiRehberUygulamasi\\Kisi.cs",
+              "RelativeToolTip": "KisiRehberUygulamasi\\Kisi.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAADwv6EAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:18:21.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\KisiRehberUygulamasi\\KisiRehberUygulamasi\\Program.cs",
               "RelativeDocumentMoniker": "KisiRehberUygulamasi\\Program.cs",
               "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\KisiRehberUygulamasi\\KisiRehberUygulamasi\\Program.cs",
               "RelativeToolTip": "KisiRehberUygulamasi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAgwKwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T20:55:49.684Z",
               "EditorCaption": ""
