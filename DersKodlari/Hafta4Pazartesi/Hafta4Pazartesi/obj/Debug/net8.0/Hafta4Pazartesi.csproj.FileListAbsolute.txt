@@ -1,0 +1,15 @@
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\bin\Debug\net8.0\Hafta4Pazartesi.exe
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\bin\Debug\net8.0\Hafta4Pazartesi.deps.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\bin\Debug\net8.0\Hafta4Pazartesi.runtimeconfig.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\bin\Debug\net8.0\Hafta4Pazartesi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\bin\Debug\net8.0\Hafta4Pazartesi.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\obj\Debug\net8.0\Hafta4Pazartesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\obj\Debug\net8.0\Hafta4Pazartesi.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\obj\Debug\net8.0\Hafta4Pazartesi.AssemblyInfo.cs
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\obj\Debug\net8.0\Hafta4Pazartesi.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\obj\Debug\net8.0\Hafta4Pazartesi.sourcelink.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\obj\Debug\net8.0\Hafta4Pazartesi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\obj\Debug\net8.0\refint\Hafta4Pazartesi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\obj\Debug\net8.0\Hafta4Pazartesi.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\obj\Debug\net8.0\Hafta4Pazartesi.genruntimeconfig.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta4Pazartesi\Hafta4Pazartesi\obj\Debug\net8.0\ref\Hafta4Pazartesi.dll
