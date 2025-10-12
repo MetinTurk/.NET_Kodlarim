@@ -1,0 +1,15 @@
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\bin\Debug\net8.0\eTicaretOtomasyonu.exe
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\bin\Debug\net8.0\eTicaretOtomasyonu.deps.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\bin\Debug\net8.0\eTicaretOtomasyonu.runtimeconfig.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\bin\Debug\net8.0\eTicaretOtomasyonu.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\bin\Debug\net8.0\eTicaretOtomasyonu.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\obj\Debug\net8.0\eTicaretOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\obj\Debug\net8.0\eTicaretOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\obj\Debug\net8.0\eTicaretOtomasyonu.AssemblyInfo.cs
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\obj\Debug\net8.0\eTicaretOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\obj\Debug\net8.0\eTicaretOtomasyonu.sourcelink.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\obj\Debug\net8.0\eTicaretOtomasyonu.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\obj\Debug\net8.0\refint\eTicaretOtomasyonu.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\obj\Debug\net8.0\eTicaretOtomasyonu.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\obj\Debug\net8.0\eTicaretOtomasyonu.genruntimeconfig.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\eTicaretOtomasyonu\eTicaretOtomasyonu\obj\Debug\net8.0\ref\eTicaretOtomasyonu.dll
