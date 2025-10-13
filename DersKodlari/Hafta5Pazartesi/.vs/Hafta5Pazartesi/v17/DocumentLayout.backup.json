@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta5Pazartesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010A68CA-82FC-4CFE-A54B-0E6535279FA4}|Hafta5Pazartesi\\Hafta5Pazartesi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\derskodlari\\hafta5pazartesi\\hafta5pazartesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A68CA-82FC-4CFE-A54B-0E6535279FA4}|Hafta5Pazartesi\\Hafta5Pazartesi.csproj|solutionrelative:hafta5pazartesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta5Pazartesi\\Hafta5Pazartesi\\Program.cs",
+              "RelativeDocumentMoniker": "Hafta5Pazartesi\\Program.cs",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta5Pazartesi\\Hafta5Pazartesi\\Program.cs*",
+              "RelativeToolTip": "Hafta5Pazartesi\\Program.cs*",
+              "ViewState": "AgIAACEBAAAAAAAAAAAmwEUBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:35:53.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
