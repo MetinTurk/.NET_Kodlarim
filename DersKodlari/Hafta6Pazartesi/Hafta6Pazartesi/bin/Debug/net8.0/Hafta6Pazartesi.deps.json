@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hafta6Pazartesi/1.0.0": {
+        "runtime": {
+          "Hafta6Pazartesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hafta6Pazartesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
