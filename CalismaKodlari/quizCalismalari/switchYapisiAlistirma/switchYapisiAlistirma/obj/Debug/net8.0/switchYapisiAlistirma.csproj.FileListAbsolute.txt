@@ -1,0 +1,15 @@
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\bin\Debug\net8.0\switchYapisiAlistirma.exe
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\bin\Debug\net8.0\switchYapisiAlistirma.deps.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\bin\Debug\net8.0\switchYapisiAlistirma.runtimeconfig.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\bin\Debug\net8.0\switchYapisiAlistirma.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\bin\Debug\net8.0\switchYapisiAlistirma.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\obj\Debug\net8.0\switchYapisiAlistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\obj\Debug\net8.0\switchYapisiAlistirma.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\obj\Debug\net8.0\switchYapisiAlistirma.AssemblyInfo.cs
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\obj\Debug\net8.0\switchYapisiAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\obj\Debug\net8.0\switchYapisiAlistirma.sourcelink.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\obj\Debug\net8.0\switchYapisiAlistirma.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\obj\Debug\net8.0\refint\switchYapisiAlistirma.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\obj\Debug\net8.0\switchYapisiAlistirma.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\obj\Debug\net8.0\switchYapisiAlistirma.genruntimeconfig.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\quizCalismalari\switchYapisiAlistirma\switchYapisiAlistirma\obj\Debug\net8.0\ref\switchYapisiAlistirma.dll
