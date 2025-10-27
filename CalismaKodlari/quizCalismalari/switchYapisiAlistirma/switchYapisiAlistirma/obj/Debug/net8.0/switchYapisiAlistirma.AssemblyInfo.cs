@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("switchYapisiAlistirma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20c8a3839545621d872f75a6b4dcd31638cbe2ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6939c1e38a857fa6429f06ae642c71e3432c759")]
 [assembly: System.Reflection.AssemblyProductAttribute("switchYapisiAlistirma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("switchYapisiAlistirma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

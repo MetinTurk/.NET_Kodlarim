@@ -21,6 +21,7 @@
             //};
             //Console.WriteLine($"Kargo Ücretiniz: {kargoUcreti}");
 
+            /*
             for (int i = 1; i < 5; i++)
             {
                 for (int j = 1; j < 11; j++)
@@ -37,6 +38,35 @@
                     }
                     Console.WriteLine($"{i}");
                 }
+            }
+            */
+
+            /*
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    if(i >= j)
+                    {
+                        Console.Write("*");
+                    }
+                }
+                Console.WriteLine();
+            }
+            */
+            int satir = 5;
+            int sutun = 9;
+            for (int i = 1; i <= satir; i++)
+            {
+                for (int j = i; j < satir; j++)
+                {
+                    Console.Write(" ");
+                }
+                for (int k = 1; k  <= ((2*i) - 1); k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
             }
         }
     }
