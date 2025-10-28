@@ -1,0 +1,15 @@
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\bin\Debug\net8.0\VizeCalismaSorulari.exe
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\bin\Debug\net8.0\VizeCalismaSorulari.deps.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\bin\Debug\net8.0\VizeCalismaSorulari.runtimeconfig.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\bin\Debug\net8.0\VizeCalismaSorulari.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\bin\Debug\net8.0\VizeCalismaSorulari.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\obj\Debug\net8.0\VizeCalismaSorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\obj\Debug\net8.0\VizeCalismaSorulari.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\obj\Debug\net8.0\VizeCalismaSorulari.AssemblyInfo.cs
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\obj\Debug\net8.0\VizeCalismaSorulari.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\obj\Debug\net8.0\VizeCalismaSorulari.sourcelink.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\obj\Debug\net8.0\VizeCalismaSorulari.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\obj\Debug\net8.0\refint\VizeCalismaSorulari.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\obj\Debug\net8.0\VizeCalismaSorulari.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\obj\Debug\net8.0\VizeCalismaSorulari.genruntimeconfig.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\VizeCalismaSorulari\VizeCalismaSorulari\obj\Debug\net8.0\ref\VizeCalismaSorulari.dll
