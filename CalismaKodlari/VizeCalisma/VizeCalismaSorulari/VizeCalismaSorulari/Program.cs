@@ -1,5 +1,7 @@
-﻿using System.Data.SqlTypes;
+﻿using System.Data;
+using System.Data.SqlTypes;
 using System.Diagnostics.CodeAnalysis;
+using System.Globalization;
 
 namespace VizeCalismaSorulari
 {
@@ -90,28 +92,87 @@ namespace VizeCalismaSorulari
             //Console.WriteLine($"Toplam güven puanı: {toplam}"); 
             #endregion
 
-            double bsmv = 0.1, kkdf = 0.15, faiz = 0.02, kredi = 10000;
-            int ay = 4;
+            #region Önemli soru
+            //double bsmv = 0.1, kkdf = 0.15, faiz = 0.02, kredi = 10000;
+            //int ay = 4;
 
-            double toplamFaizOrani = faiz * (bsmv + kkdf + 1);
-            double aylikTaksitTutari = Math.Round((kredi * (toplamFaizOrani * Math.Pow(1 + toplamFaizOrani, ay))) / (Math.Pow(1 + toplamFaizOrani, ay) - 1), 2);
+            //double toplamFaizOrani = faiz * (bsmv + kkdf + 1);
+            //double aylikTaksitTutari = Math.Round((kredi * (toplamFaizOrani * Math.Pow(1 + toplamFaizOrani, ay))) / (Math.Pow(1 + toplamFaizOrani, ay) - 1), 2);
 
-            Console.WriteLine("Ay \t Taksit \t Anapara \t Faiz \t \t BsmvTutar \t KkdfTutar \t KalanAnaPara ");
-            double toplamFaiz = 0, toplamBsmvTutar = 0, toplamKkdfTutar = 0, kalanPara = kredi;
-            for (int i = 0; i < ay; i++)
+            //Console.WriteLine("Ay \t Taksit \t Anapara \t Faiz \t \t BsmvTutar \t KkdfTutar \t KalanAnaPara ");
+            //double toplamFaiz = 0, toplamBsmvTutar = 0, toplamKkdfTutar = 0, kalanPara = kredi;
+            //for (int i = 0; i < ay; i++)
+            //{
+            //    double uygulanacakFaiz = Math.Round(kalanPara * faiz, 2);
+            //    double uygulanacakBsmv = Math.Round(uygulanacakFaiz * bsmv,2);
+            //    double uygulanacakKkdf = Math.Round(uygulanacakFaiz * kkdf, 2);
+            //    double aylikAnaPara = Math.Round(aylikTaksitTutari - (uygulanacakFaiz + uygulanacakBsmv + uygulanacakKkdf) ,2);
+            //    kalanPara = Math.Round(kalanPara - aylikAnaPara, 2);
+            //    Console.WriteLine($"0{i+1} \t {aylikTaksitTutari} \t {aylikAnaPara} \t {uygulanacakFaiz} \t \t {uygulanacakBsmv} \t  \t {uygulanacakKkdf} \t \t {kalanPara}");
+            //    toplamFaiz += uygulanacakFaiz;
+            //    toplamBsmvTutar += uygulanacakBsmv;
+            //    toplamKkdfTutar += uygulanacakKkdf;
+            //}
+            //Console.WriteLine($"*  \t {aylikTaksitTutari*ay} \t {kredi} \t \t {Math.Round(toplamFaiz , 2)} \t {toplamBsmvTutar} \t \t {toplamKkdfTutar}"); 
+            #endregion
+
+            //DİJİTAL İMZA DOĞRULAMA SİSTEMİ (SECURE-LOG)
+
+            string hamLogVerisi = "USER_A_ADM, 01:23:45, SIG_PASS_A; USER_B_GUE, 14:05:10, SIG_HATA_02; USER_C_DEV, 09:40:22, SIG_PASS_B; USER_D_ADM, 02:59:59, SIG_FAIL_01; USER_E_DEV, 11:30:00, SIG_SUCCESS_OK; USER_F_GUE, 23:59:00, SIG_PASS_C ; USER_G_ADM, 00:01:00, SIG_PASS_A";
+
+            string[] duzenliLogVerisi  = hamLogVerisi.Split(';');
+            int toplamRiskSkoru = 0 , toplamKayitSayisi = 0;
+            Console.WriteLine("Index\tKullanıcı Kodu\tSaat\tDoğrulama Kodu\tSkor\tToplam Skor");
+            for (int i = 0; i < duzenliLogVerisi.Length; i++)
             {
-                double uygulanacakFaiz = Math.Round(kalanPara * faiz, 2);
-                double uygulanacakBsmv = Math.Round(uygulanacakFaiz * bsmv,2);
-                double uygulanacakKkdf = Math.Round(uygulanacakFaiz * kkdf, 2);
-                double aylikAnaPara = Math.Round(aylikTaksitTutari - (uygulanacakFaiz + uygulanacakBsmv + uygulanacakKkdf) ,2);
-                kalanPara = Math.Round(kalanPara - aylikAnaPara, 2);
-                Console.WriteLine($"0{i+1} \t {aylikTaksitTutari} \t {aylikAnaPara} \t {uygulanacakFaiz} \t \t {uygulanacakBsmv} \t  \t {uygulanacakKkdf} \t \t {kalanPara}");
-                toplamFaiz += uygulanacakFaiz;
-                toplamBsmvTutar += uygulanacakBsmv;
-                toplamKkdfTutar += uygulanacakKkdf;
-            }
-            Console.WriteLine($"*  \t {aylikTaksitTutari*ay} \t {kredi} \t \t {Math.Round(toplamFaiz , 2)} \t {toplamBsmvTutar} \t \t {toplamKkdfTutar}");
+                duzenliLogVerisi[i] = duzenliLogVerisi[i].Trim();
+                if (string.IsNullOrWhiteSpace(duzenliLogVerisi[i]))
+                {
+                    continue;
+                }
+                string[] ayrilmisLogVerisi = duzenliLogVerisi[i].Split(",");
+                string kullaniciKodu = ayrilmisLogVerisi[0];
+                string girisSaatiStr = ayrilmisLogVerisi[1].Trim();
+                string dogrulamaKodu = ayrilmisLogVerisi[2];
 
+                string duzeltilmisSaat = girisSaatiStr.PadLeft(8, '0');
+
+                if (duzeltilmisSaat.StartsWith("00:") ||
+                    duzeltilmisSaat.StartsWith("01:") ||
+                    duzeltilmisSaat.StartsWith("02:"))
+                {
+                    toplamRiskSkoru -= 20;
+                    Console.WriteLine($"{kullaniciKodu} için erken erişim riski tespit edildi! (-20)");
+                    Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+                }
+                if(dogrulamaKodu.Contains("FAIL") || dogrulamaKodu.Contains("HATA"))
+                {
+                    toplamRiskSkoru -= 30;
+                    Console.WriteLine($"{dogrulamaKodu} için hata tespit edildi! (-30)");
+                    Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+                }
+                if (kullaniciKodu.Contains("_ADM"))
+                {
+                    toplamRiskSkoru += 10;
+                    Console.WriteLine($"{kullaniciKodu} admin olduğu için (+10)");
+                    Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+                }
+                if (dogrulamaKodu.EndsWith("SUCCESS_OK"))
+                {
+                    toplamRiskSkoru += 50;
+                    Console.WriteLine($"{dogrulamaKodu} başarılı olduğu için (+50)");
+                    Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+                }
+                if(dogrulamaKodu.Length < 10)
+                {
+                    toplamRiskSkoru -= 5;
+                    Console.WriteLine($"{dogrulamaKodu} kısa ve eksik dogrulama kodu");
+                    Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+                }
+                
+                toplamKayitSayisi++;
+            }
+            Console.WriteLine($"Analiz Edilen Kayıt Sayısı: {toplamKayitSayisi} GENEL SİSTEM RİSK SKORU: {toplamRiskSkoru}");
         }
     }
 }
