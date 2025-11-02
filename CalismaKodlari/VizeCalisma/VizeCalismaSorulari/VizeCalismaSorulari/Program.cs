@@ -1,5 +1,6 @@
 ﻿using System.Data;
 using System.Data.SqlTypes;
+using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
 using System.Text;
@@ -332,46 +333,149 @@ namespace VizeCalismaSorulari
             //} 
             #endregion
 
-            //KUANTUM GÜVENLİK PROTOKOLÜ (Q-SEC) ANALİZİ
-            const string HamVeriAkisi = "QSEC55ALPHA001QSEC44BETAERRZNO_PROTOKOL_XXQSEC55GAB_BETAQSEC40ALPHAABCABERRC12345678";
-            string[] parcaliVeri = new string[HamVeriAkisi.Length/14];
-            int sayac = 0;
+            #region KUANTUM GÜVENLİK PROTOKOLÜ
+            ////KUANTUM GÜVENLİK PROTOKOLÜ (Q-SEC) ANALİZİ
+            //const string HamVeriAkisi = "QSEC55ALPHA001QSEC44BETAERRZNO_PROTOKOL_XXQSEC55GAB_BETAQSEC40ALPHAABCABERRC12345678";
+            //string[] parcaliVeri = new string[HamVeriAkisi.Length/14];
+            //int sayac = 0;
+
+
+            //StringBuilder sb = new StringBuilder();
+            //sb.AppendLine("Q-SEC Analiz Raporu\n-------------------");
+            //for (int i = 0; i < HamVeriAkisi.Length; i+=14)
+            //{
+            //    int guvenPuani = 100;
+            //    int cezaPuani = 0;
+            //    parcaliVeri[sayac] = HamVeriAkisi.Substring(i, 14);
+            //    int aCeza = 0, bCeza = 0, cCeza = 0, dCeza = 0;
+            //    sb.Append($"{sayac + 1}. raporun: Kod: {parcaliVeri[sayac]} ");
+            //    if (parcaliVeri[sayac].Substring(0,4) == "QSEC")
+            //    {
+            //        aCeza = 25;;
+
+            //    }
+            //    if (parcaliVeri[sayac].Substring(4,2) == "55" && !parcaliVeri[sayac].EndsWith("BETA"))
+            //    {
+            //        bCeza = -15;                    
+            //    }
+            //    if (parcaliVeri[sayac].Contains("ERR") || Char.IsDigit(char.Parse(parcaliVeri[sayac].Substring(parcaliVeri[sayac].Length - 1, 1))))
+            //    {
+            //        cCeza = -50;                    
+            //    }
+            //    if (parcaliVeri[sayac].IndexOf("ALPHA") != 0 && parcaliVeri[sayac].IndexOf("ALPHA") != -1)
+            //    {
+            //        dCeza = 40;
+            //    }
+            //    cezaPuani = aCeza + bCeza + cCeza + dCeza;
+            //    guvenPuani += cezaPuani;
+            //    sb.Append($"| Skor: A:{aCeza}\t|B:{bCeza}\t|C:{cCeza}\t|D:{dCeza}\t|Blok skoru: {cezaPuani}  |Toplam Güven Puanı: {guvenPuani}\n");
+            //    sayac++;
+            //}
+            //Console.WriteLine(sb.ToString()); 
+            #endregion
+
+
+            //StringBuilder rapor = new StringBuilder();
+            //rapor.Append("QSEC-RAPOR-BAŞLANGIÇ|");
+            //rapor.Append("PAKET_ID:551-DURUM:OK|");
+            //rapor.Append("PAKET_ID:552-DURUM:CORRUPT|");
+            //rapor.Append("PAKET_ID:553-DURUM:OK|");
+            //rapor.Append("HATA_KODU:NOISE_FLTR_8X_AKTİF|"); // Bu satır gereksiz
+            //rapor.Append("PAKET_ID:554-DURUM:PENDING|");
+            //rapor.Append("QSEC-RAPOR-BİTİŞ");
+
+            //Console.WriteLine("--- Ham Rapor ---");
+            //Console.WriteLine(rapor.ToString());
+            //Console.WriteLine("-----------------\n");
+
+            //var hataliIndex = rapor.ToString().IndexOf("HATA");
+            //rapor.Remove(hataliIndex,  31);
+            //rapor.Replace("CORRUPT", "BAGLANTI_HATASI");
+            //rapor.Insert(0, "KRİTİK_UYARI:[02/11/2025] |");
+            //rapor.Replace("|", "\n");
+            //Console.WriteLine(rapor.ToString());
+
+            //----------------------------------------------------------------------------------------------------------//
+            //StringBuilder logKaydi = new StringBuilder();
+            //logKaydi.AppendLine("--- Q-SEC GÜNLÜK KAYIT BAŞLANGICI ---");
+            //logKaydi.AppendLine("PAKET:A-DURUM:STABLE");
+            //logKaydi.AppendLine("PAKET:B-DURUM:STABLE");
+            //logKaydi.AppendLine("UYARI: SİSTEM_GÜRÜLTÜSÜ_XF01_YOKSAY"); // Bu satır gereksiz
+            //logKaydi.AppendLine("PAKET:C-DURUM:UNSTABLE");
+            //logKaydi.AppendLine("PAKET:D-DURUM:STABLE");
+            //logKaydi.AppendLine("ÖNCELİK_KODU:CRITICAL_99X"); // Bu veri taşınmalı
+            //logKaydi.AppendLine("--- Q-SEC GÜNLÜK KAYIT BİTİŞİ ---");
+
+            //Console.WriteLine("--- ORİJİNAL LOG KAYDI ---");
+            //Console.WriteLine(logKaydi.ToString());
+            //Console.WriteLine("--------------------------");
+
+            //var hataliIndex = logKaydi.ToString().IndexOf("UYARI");
+            //logKaydi.Remove(hataliIndex, 37);
+            //logKaydi.Replace("STABLE", "GUVENLI");
+            //int aktarilicakIndex = logKaydi.ToString().IndexOf("ÖNCELİK_KODU");
+            //string aktarilicakString = logKaydi.ToString().Substring(aktarilicakIndex, 27);
+            //logKaydi.Remove(aktarilicakIndex,27);
+            //logKaydi.Insert(0,aktarilicakString);
+            //logKaydi.AppendLine("İŞLEM TAMAMLANDI: [02/11/2025]");
+            //Console.WriteLine(logKaydi.ToString());
+
+
+            // --- BAŞLANGIÇ KODU ---
+            StringBuilder queueBuffer = new StringBuilder();
+            queueBuffer.AppendLine("TASK_ID:101-CMD:INIT_SEQ");
+            queueBuffer.AppendLine("[REPEAT:3:CMD_PING_NODE]"); // 3 kez "CMD_PING_NODE" olarak genişlemeli
+            queueBuffer.AppendLine("TASK_ID:102-CMD:CHECK_PWR");
+            queueBuffer.AppendLine("[NULL_OP]"); // Bu satır tamamen silinmeli
+            queueBuffer.AppendLine("[NULL_OP]"); // Bu satır tamamen silinmeli
+            queueBuffer.AppendLine("[CRITICAL_TASK:CMD_REBOOT_CORE]"); // Başına bayrak eklenmeli
+            queueBuffer.AppendLine("TASK_ID:103-CMD:VERIFY_CRC");
+            queueBuffer.AppendLine("[REPEAT:2:CMD_CALIBRATE_GYRO]"); // 2 kez "CMD_CALIBRATE_GYRO" olarak genişlemeli
+            queueBuffer.AppendLine("--- QUEUE END ---");
+
+            Console.WriteLine("--- Ham Komut Kuyruğu ---");
+            Console.WriteLine(queueBuffer.ToString());
+            Console.WriteLine("-------------------------");
+
+            int hataliIndex = queueBuffer.ToString().IndexOf("[NULL_OP]");
+            queueBuffer.Remove(hataliIndex, 22);
             
+            queueBuffer.Insert(queueBuffer.ToString().IndexOf("[CRITICA") , "PRIORITY_FLAG:HIGH\n");
+            int tekrarEdenSatirIndex = 0;
             
-            StringBuilder sb = new StringBuilder();
-            sb.AppendLine("Q-SEC Analiz Raporu\n-------------------");
-            for (int i = 0; i < HamVeriAkisi.Length; i+=14)
+            do
             {
-                int guvenPuani = 100;
-                int cezaPuani = 0;
-                parcaliVeri[sayac] = HamVeriAkisi.Substring(i, 14);
-                int aCeza = 0, bCeza = 0, cCeza = 0, dCeza = 0;
-                sb.Append($"{sayac + 1}. raporun: Kod: {parcaliVeri[sayac]} ");
-                if (parcaliVeri[sayac].Substring(0,4) == "QSEC")
+                tekrarEdenSatirIndex = queueBuffer.ToString().IndexOf("[REPEAT");
+                int tekrarEdenLogSayiIndexi = tekrarEdenSatirIndex + 8;
+                int commadTekrarEdenIndexBaslangic = tekrarEdenLogSayiIndexi + 2;
+                int commadTekrarEdenIndexBitis = queueBuffer.ToString().IndexOf("]", commadTekrarEdenIndexBaslangic);
+                int tekrarSayisi = int.Parse(queueBuffer[tekrarEdenLogSayiIndexi].ToString());
+                string? commad = null;
+                string commadAtama = queueBuffer.ToString();
+                commad = commadAtama.Substring(commadTekrarEdenIndexBaslangic, commadTekrarEdenIndexBitis - commadTekrarEdenIndexBaslangic);
+                for (int i = 0; i < tekrarSayisi; i++)
                 {
-                    aCeza = 25;;
-                    
+                    queueBuffer.Insert(tekrarEdenSatirIndex, commad+"\n");
                 }
-                if (parcaliVeri[sayac].Substring(4,2) == "55" && !parcaliVeri[sayac].EndsWith("BETA"))
-                {
-                    bCeza = -15;                    
-                }
-                if (parcaliVeri[sayac].Contains("ERR") || Char.IsDigit(char.Parse(parcaliVeri[sayac].Substring(parcaliVeri[sayac].Length - 1, 1))))
-                {
-                    cCeza = -50;                    
-                }
-                if (parcaliVeri[sayac].IndexOf("ALPHA") != 0 && parcaliVeri[sayac].IndexOf("ALPHA") != -1)
-                {
-                    dCeza = 40;
-                }
-                cezaPuani = aCeza + bCeza + cCeza + dCeza;
-                guvenPuani += cezaPuani;
-                sb.Append($"| Skor: A:{aCeza}\t|B:{bCeza}\t|C:{cCeza}\t|D:{dCeza}\t|Blok skoru: {cezaPuani}  |Toplam Güven Puanı: {guvenPuani}\n");
-                sayac++;
+                tekrarEdenSatirIndex = queueBuffer.ToString().IndexOf("[REPEAT");
+                tekrarEdenLogSayiIndexi = tekrarEdenSatirIndex + 8;
+                commadTekrarEdenIndexBaslangic = tekrarEdenLogSayiIndexi + 2;
+                commadTekrarEdenIndexBitis = queueBuffer.ToString().IndexOf("]", commadTekrarEdenIndexBaslangic);
+                queueBuffer.Remove(tekrarEdenSatirIndex - 1, commadTekrarEdenIndexBitis - tekrarEdenSatirIndex + 2);
+                tekrarEdenSatirIndex = queueBuffer.ToString().IndexOf("[REPEAT");
             }
-            Console.WriteLine(sb.ToString());
+            while (tekrarEdenSatirIndex != -1);
+            
+            //Console.WriteLine(queueBuffer[commadTekrarEdenIndexBitis]);
+
+            //Console.WriteLine(queueBuffer[tekrarEdenLogSayiIndexi]);
+            
+            Console.WriteLine(queueBuffer.ToString());
 
             
+
+
+
         }
     }
 }

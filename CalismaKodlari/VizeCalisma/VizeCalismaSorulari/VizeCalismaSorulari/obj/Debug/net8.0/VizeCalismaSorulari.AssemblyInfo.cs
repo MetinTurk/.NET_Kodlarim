@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VizeCalismaSorulari")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+647f5062add3bda129725eb56d7bc8ed7e82c9d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6142aa0e14ba399a2f7f42f59c0ef6457119e99")]
 [assembly: System.Reflection.AssemblyProductAttribute("VizeCalismaSorulari")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VizeCalismaSorulari")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
