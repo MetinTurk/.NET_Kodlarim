@@ -2,6 +2,7 @@
 using System.Data.SqlTypes;
 using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
+using System.Text;
 
 namespace VizeCalismaSorulari
 {
@@ -116,63 +117,261 @@ namespace VizeCalismaSorulari
             //Console.WriteLine($"*  \t {aylikTaksitTutari*ay} \t {kredi} \t \t {Math.Round(toplamFaiz , 2)} \t {toplamBsmvTutar} \t \t {toplamKkdfTutar}"); 
             #endregion
 
+            #region Dijital imza doğrulama sistemi
+
             //DİJİTAL İMZA DOĞRULAMA SİSTEMİ (SECURE-LOG)
 
-            string hamLogVerisi = "USER_A_ADM, 01:23:45, SIG_PASS_A; USER_B_GUE, 14:05:10, SIG_HATA_02; USER_C_DEV, 09:40:22, SIG_PASS_B; USER_D_ADM, 02:59:59, SIG_FAIL_01; USER_E_DEV, 11:30:00, SIG_SUCCESS_OK; USER_F_GUE, 23:59:00, SIG_PASS_C ; USER_G_ADM, 00:01:00, SIG_PASS_A";
+            //string hamLogVerisi = "USER_A_ADM, 01:23:45, SIG_PASS_A; USER_B_GUE, 14:05:10, SIG_HATA_02; USER_C_DEV, 09:40:22, SIG_PASS_B; USER_D_ADM, 02:59:59, SIG_FAIL_01; USER_E_DEV, 11:30:00, SIG_SUCCESS_OK; USER_F_GUE, 23:59:00, SIG_PASS_C ; USER_G_ADM, 00:01:00, SIG_PASS_A";
 
-            string[] duzenliLogVerisi  = hamLogVerisi.Split(';');
-            int toplamRiskSkoru = 0 , toplamKayitSayisi = 0;
-            Console.WriteLine("Index\tKullanıcı Kodu\tSaat\tDoğrulama Kodu\tSkor\tToplam Skor");
-            for (int i = 0; i < duzenliLogVerisi.Length; i++)
+            //string[] duzenliLogVerisi = hamLogVerisi.Split(';');
+            //int toplamRiskSkoru = 0, toplamKayitSayisi = 0;
+            //Console.WriteLine("Index\tKullanıcı Kodu\tSaat\tDoğrulama Kodu\tSkor\tToplam Skor");
+            //for (int i = 0; i < duzenliLogVerisi.Length; i++)
+            //{
+            //    duzenliLogVerisi[i] = duzenliLogVerisi[i].Trim();
+            //    if (string.IsNullOrWhiteSpace(duzenliLogVerisi[i]))
+            //    {
+            //        continue;
+            //    }
+            //    string[] ayrilmisLogVerisi = duzenliLogVerisi[i].Split(",");
+            //    string kullaniciKodu = ayrilmisLogVerisi[0];
+            //    string girisSaatiStr = ayrilmisLogVerisi[1].Trim();
+            //    string dogrulamaKodu = ayrilmisLogVerisi[2];
+
+            //    string duzeltilmisSaat = girisSaatiStr.PadLeft(8, '0');
+
+            //    if (duzeltilmisSaat.StartsWith("00:") ||
+            //        duzeltilmisSaat.StartsWith("01:") ||
+            //        duzeltilmisSaat.StartsWith("02:"))
+            //    {
+            //        toplamRiskSkoru -= 20;
+            //        Console.WriteLine($"{kullaniciKodu} için erken erişim riski tespit edildi! (-20)");
+            //        Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+            //    }
+            //    if (dogrulamaKodu.Contains("FAIL") || dogrulamaKodu.Contains("HATA"))
+            //    {
+            //        toplamRiskSkoru -= 30;
+            //        Console.WriteLine($"{dogrulamaKodu} için hata tespit edildi! (-30)");
+            //        Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+            //    }
+            //    if (kullaniciKodu.Contains("_ADM"))
+            //    {
+            //        toplamRiskSkoru += 10;
+            //        Console.WriteLine($"{kullaniciKodu} admin olduğu için (+10)");
+            //        Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+            //    }
+            //    if (dogrulamaKodu.EndsWith("SUCCESS_OK"))
+            //    {
+            //        toplamRiskSkoru += 50;
+            //        Console.WriteLine($"{dogrulamaKodu} başarılı olduğu için (+50)");
+            //        Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+            //    }
+            //    if (dogrulamaKodu.Length < 10)
+            //    {
+            //        toplamRiskSkoru -= 5;
+            //        Console.WriteLine($"{dogrulamaKodu} kısa ve eksik dogrulama kodu");
+            //        Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+            //    }
+
+            //    toplamKayitSayisi++;
+            //}
+            //Console.WriteLine($"Analiz Edilen Kayıt Sayısı: {toplamKayitSayisi} GENEL SİSTEM RİSK SKORU: {toplamRiskSkoru}");
+
+            #endregion
+
+            #region Kilitli otopark yonetim sistemi
+            ////KILITLI OTOPARK YÖNETİM SİSTEMİ (PARK-AUDIT)
+
+            //string hamVeri = "Kat:1_Daire:5_T:1_HIZLI \t Kat:2_Daire:3_T:2_CRITIC \t Kat:3_Daire:4_T:0_NORMAL \t Kat:4_Daire:2_T:1_MINI";
+
+            //string[] parcaliVeri = hamVeri.Split('\t');
+            //int[][] otopark = new int[4][];
+            //int denetimSkoru = 100;
+            ////Console.WriteLine("Kat\tDaire\tEski Durum\tYeni Durum\tPuan Değişimi\tToplam Skor");
+            //for (int i = 0; i < parcaliVeri.Length; i++)
+            //{
+            //    string[] duzenliVeri = parcaliVeri[i].Trim().Split("_");
+            //    string daireSayisi = duzenliVeri[1];
+            //    string[] daireSayisiDizisi = daireSayisi.Split(":");
+            //    otopark[i] = new int[int.Parse(daireSayisiDizisi[1])];
+            //    for (int j = 0; j < otopark[i].Length; j++)
+            //    {
+            //        string[] talepEdilenOtoparkSayisi = duzenliVeri[2].Split(":");
+            //        otopark[i][j] = int.Parse(talepEdilenOtoparkSayisi[1]);
+            //        if (otopark[i][j] == 2 && duzenliVeri[3].Contains("CRITIC"))
+            //        {
+            //            denetimSkoru -= 25;
+            //            Console.WriteLine("Hatalı işlem : (-25)");
+            //            Console.WriteLine("Toplam Denetim puanı = " + denetimSkoru);
+            //        }
+            //        if (otopark[i][j] == 0 && i == 2)
+            //        {
+            //            denetimSkoru += 15;
+            //            Console.WriteLine("Otopark kullanmadığınız ve 3. katta olduğunuz için tebrikler (+15)");
+            //            Console.WriteLine("Toplam denetim puanı :" + denetimSkoru);
+            //        }
+            //        if(i == 0 && otopark[i][j] == 1 && duzenliVeri[3].EndsWith("HIZLI"))
+            //        {
+            //            denetimSkoru -= 10;
+            //            Console.WriteLine("Hatalı işlem :(-10)");
+            //            Console.WriteLine("Toplam denetim puani: " + denetimSkoru);
+            //        }
+            //        if(i == 3 && otopark[i][j] == 1)
+            //        {
+            //            otopark[i][j] = 0;
+            //            denetimSkoru -= 5;
+            //            Console.WriteLine("Dizi değeri değişti: (-5)");
+            //            Console.WriteLine("Toplam denetim puani: " + denetimSkoru);
+            //        }
+            //        if (i == 1 && j == 0)
+            //        {
+            //            otopark[i][j] = 1;
+            //            denetimSkoru += 5;
+            //            Console.WriteLine("Dizi Değeri güncellendi (+5)");
+            //            Console.WriteLine("Toplam denetim puani: " + denetimSkoru);
+            //        }
+            //    }
+            //} 
+            #endregion
+
+
+            #region Dinamik Lojistik ve Tehlikeli Madde Simülasyonu
+
+            //Dinamik Lojistik ve Tehlikeli Madde Simülasyonu
+
+
+            //double standartBirimFiyati = 3.5;
+            //double BirimFiyatiHesapla(double agirlik)
+            //{
+            //    return agirlik * standartBirimFiyati;
+            //}
+
+
+            //string[] sevkiyatAdi = {
+            //    "Laptop", "Kimyasal", "Gıda", "Makine", "Pil",
+            //    "Mobilya", "Cam Şişe", "Elektronik", "Tekstil", "Hammadde",
+            //    "İlaç", "Ambalaj"
+            //};
+            //            double[] agirlikKg = {
+            //    15.0, 40.0, 25.0, 150.0, 8.0,
+            //    120.0, 60.0, 10.5, 30.0, 500.0,
+            //    5.0, 2.5
+            //};
+            //            string[] kategoriKodu = {
+            //    "STD", "HAZ", "STD", "BULK", "HAZ",
+            //    "BULK", "FRG", "STD", "STD", "BULK",
+            //    "HAZ", "STD"
+            //};
+
+
+            //int baslangicTehlikeliMaddeSayisi = 0;
+            //double sabitTehlikeEkUcreti = 300;
+            //double sabitIslemUcreti = 120.00;
+            //double temelMaliyet = 0;
+            //double toplamFatura = 0;
+            //Console.WriteLine("Sevkiyat \t Ağırlık \t Kategpri \t Temel Maliyet \t Tehlike Ek Ucreti \t İndirim Tutari \t Risk Primi \t Toplam Fatura");
+            //for (int i = 0; i < sevkiyatAdi.Length; i++)
+            //{
+            //    double tehlikeUcreti = 0;
+            //    double indirimTutari = 0;
+            //    double riskPrimi = 0;
+            //    temelMaliyet = BirimFiyatiHesapla(agirlikKg[i]);
+            //    if (kategoriKodu[i].Contains("BULK") && agirlikKg[i] >100)
+            //    {
+            //        indirimTutari = -1*(temelMaliyet * 0.15);
+            //    }
+            //    else if (kategoriKodu[i].Contains("HAZ") && baslangicTehlikeliMaddeSayisi >= 2)
+            //    {
+            //        tehlikeUcreti = sabitTehlikeEkUcreti;
+            //        riskPrimi = (temelMaliyet + tehlikeUcreti) * 0.05;
+            //        baslangicTehlikeliMaddeSayisi++;
+            //    }
+            //    else if (kategoriKodu[i].Contains("HAZ"))
+            //    {
+            //        tehlikeUcreti = sabitTehlikeEkUcreti;
+            //        baslangicTehlikeliMaddeSayisi++;
+            //    }
+            //    temelMaliyet = BirimFiyatiHesapla(agirlikKg[i])+ indirimTutari + tehlikeUcreti +  riskPrimi;
+            //    toplamFatura = temelMaliyet + sabitIslemUcreti;
+            //    Console.WriteLine($"{i+1} \t \t {agirlikKg[i]} \t \t {kategoriKodu[i]} \t \t {temelMaliyet} \t \t {tehlikeUcreti} \t \t \t {indirimTutari} \t \t \t {riskPrimi} \t \t {toplamFatura}");
+            //} 
+            #endregion
+
+            #region Performans ve Prim Hesaplama Simülasyonu
+            ////Dinamik Performans ve Prim Hesaplama Simülasyonu
+
+
+            //Console.WriteLine("Gün \t Aktif Hedef \t Günlük Üretim \t Sabit Ücret \t Prim Tutarı \t Ceza Kesintisi \t Günlük Toplam Kazanç \t Bir Sonraki Hedef");
+            //int[] gunlukUretim = { 1100 , 1350 , 900 , 1400 , 1150};
+            //double sabitGunlukUcret = 350;
+            //double baslangicHedefi = 1200;
+            //double primOrani = 0.25;
+
+            //for (int i = 0; i < gunlukUretim.Length; i++)
+            //{
+            //    double cezaTutari = 0;
+            //    double primTutari = 0;
+            //    double sonrakiHedef = 0;
+            //    if (gunlukUretim[i] > baslangicHedefi)
+            //    {
+            //        primTutari = (gunlukUretim[i] - baslangicHedefi ) * primOrani;
+            //        sonrakiHedef = baslangicHedefi * 1.10;
+            //    }
+            //    else if (gunlukUretim[i] < baslangicHedefi * 0.8)
+            //    {
+            //        cezaTutari = 80;
+            //        sonrakiHedef = baslangicHedefi * 0.95;
+            //    }
+            //    else
+            //    {
+            //        sonrakiHedef = baslangicHedefi;
+            //    }
+            //    double gunlukToplamKazanc = sabitGunlukUcret + cezaTutari + primTutari;
+            //    Console.WriteLine($"{i + 1} \t {baslangicHedefi} \t \t {gunlukUretim[i]} \t \t {sabitGunlukUcret} \t \t {primTutari} \t \t {cezaTutari}  \t \t \t {gunlukToplamKazanc} \t \t \t {sonrakiHedef}");
+            //    baslangicHedefi = sonrakiHedef;
+            //} 
+            #endregion
+
+            //KUANTUM GÜVENLİK PROTOKOLÜ (Q-SEC) ANALİZİ
+            const string HamVeriAkisi = "QSEC55ALPHA001QSEC44BETAERRZNO_PROTOKOL_XXQSEC55GAB_BETAQSEC40ALPHAABCABERRC12345678";
+            string[] parcaliVeri = new string[HamVeriAkisi.Length/14];
+            int sayac = 0;
+            
+            
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Q-SEC Analiz Raporu\n-------------------");
+            for (int i = 0; i < HamVeriAkisi.Length; i+=14)
             {
-                duzenliLogVerisi[i] = duzenliLogVerisi[i].Trim();
-                if (string.IsNullOrWhiteSpace(duzenliLogVerisi[i]))
+                int guvenPuani = 100;
+                int cezaPuani = 0;
+                parcaliVeri[sayac] = HamVeriAkisi.Substring(i, 14);
+                int aCeza = 0, bCeza = 0, cCeza = 0, dCeza = 0;
+                sb.Append($"{sayac + 1}. raporun: Kod: {parcaliVeri[sayac]} ");
+                if (parcaliVeri[sayac].Substring(0,4) == "QSEC")
                 {
-                    continue;
+                    aCeza = 25;;
+                    
                 }
-                string[] ayrilmisLogVerisi = duzenliLogVerisi[i].Split(",");
-                string kullaniciKodu = ayrilmisLogVerisi[0];
-                string girisSaatiStr = ayrilmisLogVerisi[1].Trim();
-                string dogrulamaKodu = ayrilmisLogVerisi[2];
-
-                string duzeltilmisSaat = girisSaatiStr.PadLeft(8, '0');
-
-                if (duzeltilmisSaat.StartsWith("00:") ||
-                    duzeltilmisSaat.StartsWith("01:") ||
-                    duzeltilmisSaat.StartsWith("02:"))
+                if (parcaliVeri[sayac].Substring(4,2) == "55" && !parcaliVeri[sayac].EndsWith("BETA"))
                 {
-                    toplamRiskSkoru -= 20;
-                    Console.WriteLine($"{kullaniciKodu} için erken erişim riski tespit edildi! (-20)");
-                    Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+                    bCeza = -15;                    
                 }
-                if(dogrulamaKodu.Contains("FAIL") || dogrulamaKodu.Contains("HATA"))
+                if (parcaliVeri[sayac].Contains("ERR") || Char.IsDigit(char.Parse(parcaliVeri[sayac].Substring(parcaliVeri[sayac].Length - 1, 1))))
                 {
-                    toplamRiskSkoru -= 30;
-                    Console.WriteLine($"{dogrulamaKodu} için hata tespit edildi! (-30)");
-                    Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+                    cCeza = -50;                    
                 }
-                if (kullaniciKodu.Contains("_ADM"))
+                if (parcaliVeri[sayac].IndexOf("ALPHA") != 0 && parcaliVeri[sayac].IndexOf("ALPHA") != -1)
                 {
-                    toplamRiskSkoru += 10;
-                    Console.WriteLine($"{kullaniciKodu} admin olduğu için (+10)");
-                    Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
+                    dCeza = 40;
                 }
-                if (dogrulamaKodu.EndsWith("SUCCESS_OK"))
-                {
-                    toplamRiskSkoru += 50;
-                    Console.WriteLine($"{dogrulamaKodu} başarılı olduğu için (+50)");
-                    Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
-                }
-                if(dogrulamaKodu.Length < 10)
-                {
-                    toplamRiskSkoru -= 5;
-                    Console.WriteLine($"{dogrulamaKodu} kısa ve eksik dogrulama kodu");
-                    Console.WriteLine($"Toplam skor: {toplamRiskSkoru}");
-                }
-                
-                toplamKayitSayisi++;
+                cezaPuani = aCeza + bCeza + cCeza + dCeza;
+                guvenPuani += cezaPuani;
+                sb.Append($"| Skor: A:{aCeza}\t|B:{bCeza}\t|C:{cCeza}\t|D:{dCeza}\t|Blok skoru: {cezaPuani}  |Toplam Güven Puanı: {guvenPuani}\n");
+                sayac++;
             }
-            Console.WriteLine($"Analiz Edilen Kayıt Sayısı: {toplamKayitSayisi} GENEL SİSTEM RİSK SKORU: {toplamRiskSkoru}");
+            Console.WriteLine(sb.ToString());
+
+            
         }
     }
 }

@@ -18,7 +18,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -26,9 +26,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\VizeCalisma\\VizeCalismaSorulari\\VizeCalismaSorulari\\Program.cs",
               "RelativeDocumentMoniker": "VizeCalismaSorulari\\Program.cs",
-              "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\VizeCalisma\\VizeCalismaSorulari\\VizeCalismaSorulari\\Program.cs",
-              "RelativeToolTip": "VizeCalismaSorulari\\Program.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAWwKkAAABJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\VizeCalisma\\VizeCalismaSorulari\\VizeCalismaSorulari\\Program.cs*",
+              "RelativeToolTip": "VizeCalismaSorulari\\Program.cs*",
+              "ViewState": "AgIAALUAAAAAAAAAAAAgwFwBAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T18:48:25.41Z",
               "EditorCaption": ""
