@@ -1,0 +1,15 @@
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\bin\Debug\net8.0\DuzensizDiziOrnegi.exe
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\bin\Debug\net8.0\DuzensizDiziOrnegi.deps.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\bin\Debug\net8.0\DuzensizDiziOrnegi.runtimeconfig.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\bin\Debug\net8.0\DuzensizDiziOrnegi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\bin\Debug\net8.0\DuzensizDiziOrnegi.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\obj\Debug\net8.0\DuzensizDiziOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\obj\Debug\net8.0\DuzensizDiziOrnegi.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\obj\Debug\net8.0\DuzensizDiziOrnegi.AssemblyInfo.cs
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\obj\Debug\net8.0\DuzensizDiziOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\obj\Debug\net8.0\DuzensizDiziOrnegi.sourcelink.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\obj\Debug\net8.0\DuzensizDiziOrnegi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\obj\Debug\net8.0\refint\DuzensizDiziOrnegi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\obj\Debug\net8.0\DuzensizDiziOrnegi.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\obj\Debug\net8.0\DuzensizDiziOrnegi.genruntimeconfig.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\VizeCalisma\DuzensizDiziOrnegi\DuzensizDiziOrnegi\obj\Debug\net8.0\ref\DuzensizDiziOrnegi.dll
