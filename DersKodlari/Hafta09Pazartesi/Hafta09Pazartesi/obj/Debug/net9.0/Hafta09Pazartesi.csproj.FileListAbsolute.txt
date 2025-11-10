@@ -1,0 +1,15 @@
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\bin\Debug\net9.0\Hafta09Pazartesi.exe
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\bin\Debug\net9.0\Hafta09Pazartesi.deps.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\bin\Debug\net9.0\Hafta09Pazartesi.runtimeconfig.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\bin\Debug\net9.0\Hafta09Pazartesi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\bin\Debug\net9.0\Hafta09Pazartesi.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\obj\Debug\net9.0\Hafta09Pazartesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\obj\Debug\net9.0\Hafta09Pazartesi.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\obj\Debug\net9.0\Hafta09Pazartesi.AssemblyInfo.cs
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\obj\Debug\net9.0\Hafta09Pazartesi.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\obj\Debug\net9.0\Hafta09Pazartesi.sourcelink.json
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\obj\Debug\net9.0\Hafta09Pazartesi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\obj\Debug\net9.0\refint\Hafta09Pazartesi.dll
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\obj\Debug\net9.0\Hafta09Pazartesi.pdb
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\obj\Debug\net9.0\Hafta09Pazartesi.genruntimeconfig.cache
+C:\Users\Metin\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta09Pazartesi\Hafta09Pazartesi\obj\Debug\net9.0\ref\Hafta09Pazartesi.dll
