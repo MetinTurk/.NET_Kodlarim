@@ -76,6 +76,7 @@ namespace Hafta09Pazartesi
             #endregion
 
 
+
             //Random rnd = new Random();
             //var rastgeleSayi = rnd.Next(0 , 100);       //başlangıç değeri , bitiş değeri : arasında değer alır
             //rastgeleSayi = rnd.Next(0 , 100);
