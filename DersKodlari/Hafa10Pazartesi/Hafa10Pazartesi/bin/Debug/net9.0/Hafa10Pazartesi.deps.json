@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Hafa10Pazartesi/1.0.0": {
+        "runtime": {
+          "Hafa10Pazartesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hafa10Pazartesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
