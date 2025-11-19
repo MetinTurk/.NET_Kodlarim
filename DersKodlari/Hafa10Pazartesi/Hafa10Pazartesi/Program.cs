@@ -12,6 +12,7 @@
 
             int sayi = 1;
 
+
             HesapMakinesi hesapMakinesi = new HesapMakinesi();  //örneğini alma (instance)
             hesapMakinesi.sayi1 = 50;
             hesapMakinesi.sayi2 = 40;
@@ -36,7 +37,7 @@
             Console.WriteLine(monitor1.Fiyat);
 
             monitor1.SeriNumarasi = "TR156564654516465";
-            //Console.WriteLine(monitor1.SeriNumarasi); //get etme okuma şansın yok write-only
+            //Console.WriteLine(monitor1.SeriNumarasi); //get etme okuma şansın yok write-only..
 
 
             Ogrenci sila = new Ogrenci();
