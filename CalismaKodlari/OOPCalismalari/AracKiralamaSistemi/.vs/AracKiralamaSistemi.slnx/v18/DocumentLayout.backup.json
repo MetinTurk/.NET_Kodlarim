@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\OOPCalismalari\\AracKiralamaSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB84278-FFAB-407C-BD2E-E5E792012DF4}|AracKiralamaSistemi\\AracKiralamaSistemi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\oopcalismalari\\arackiralamasistemi\\arackiralamasistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB84278-FFAB-407C-BD2E-E5E792012DF4}|AracKiralamaSistemi\\AracKiralamaSistemi.csproj|solutionrelative:arackiralamasistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB84278-FFAB-407C-BD2E-E5E792012DF4}|AracKiralamaSistemi\\AracKiralamaSistemi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\oopcalismalari\\arackiralamasistemi\\arackiralamasistemi\\models\\tir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB84278-FFAB-407C-BD2E-E5E792012DF4}|AracKiralamaSistemi\\AracKiralamaSistemi.csproj|solutionrelative:arackiralamasistemi\\models\\tir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB84278-FFAB-407C-BD2E-E5E792012DF4}|AracKiralamaSistemi\\AracKiralamaSistemi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\oopcalismalari\\arackiralamasistemi\\arackiralamasistemi\\models\\tasit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB84278-FFAB-407C-BD2E-E5E792012DF4}|AracKiralamaSistemi\\AracKiralamaSistemi.csproj|solutionrelative:arackiralamasistemi\\models\\tasit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB84278-FFAB-407C-BD2E-E5E792012DF4}|AracKiralamaSistemi\\AracKiralamaSistemi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\oopcalismalari\\arackiralamasistemi\\arackiralamasistemi\\models\\otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB84278-FFAB-407C-BD2E-E5E792012DF4}|AracKiralamaSistemi\\AracKiralamaSistemi.csproj|solutionrelative:arackiralamasistemi\\models\\otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tir.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\OOPCalismalari\\AracKiralamaSistemi\\AracKiralamaSistemi\\Models\\Tir.cs",
+              "RelativeDocumentMoniker": "AracKiralamaSistemi\\Models\\Tir.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\OOPCalismalari\\AracKiralamaSistemi\\AracKiralamaSistemi\\Models\\Tir.cs",
+              "RelativeToolTip": "AracKiralamaSistemi\\Models\\Tir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:20:29.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Otomobil.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\OOPCalismalari\\AracKiralamaSistemi\\AracKiralamaSistemi\\Models\\Otomobil.cs",
+              "RelativeDocumentMoniker": "AracKiralamaSistemi\\Models\\Otomobil.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\OOPCalismalari\\AracKiralamaSistemi\\AracKiralamaSistemi\\Models\\Otomobil.cs",
+              "RelativeToolTip": "AracKiralamaSistemi\\Models\\Otomobil.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:17:08.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tasit.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\OOPCalismalari\\AracKiralamaSistemi\\AracKiralamaSistemi\\Models\\Tasit.cs",
+              "RelativeDocumentMoniker": "AracKiralamaSistemi\\Models\\Tasit.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\OOPCalismalari\\AracKiralamaSistemi\\AracKiralamaSistemi\\Models\\Tasit.cs",
+              "RelativeToolTip": "AracKiralamaSistemi\\Models\\Tasit.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:04:23.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\OOPCalismalari\\AracKiralamaSistemi\\AracKiralamaSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "AracKiralamaSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\OOPCalismalari\\AracKiralamaSistemi\\AracKiralamaSistemi\\Program.cs*",
+              "RelativeToolTip": "AracKiralamaSistemi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:03:14.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
