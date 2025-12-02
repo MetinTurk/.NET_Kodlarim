@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "FirstWebApplication.Controllers.PromptController",
+    "Method": "SelamVer",
+    "RelativePath": "api/Prompt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstWebApplication.Controllers.PromptController",
+    "Method": "PromptAl",
+    "RelativePath": "api/Prompt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "istek",
+        "Type": "FirstWebApplication.Controllers.PromptIstegi",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
