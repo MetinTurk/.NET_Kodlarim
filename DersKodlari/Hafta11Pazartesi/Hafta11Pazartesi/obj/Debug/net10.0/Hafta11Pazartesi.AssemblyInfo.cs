@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hafta11Pazartesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d08add422e03fa9e35244cccd4ebf2eeae6e482")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73a8dd8f99e2edc48d99366e12720332815533c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hafta11Pazartesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hafta11Pazartesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

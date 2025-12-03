@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\metin\\OneDrive - ISUBU\\Masaüstü\\PowerShell\\Hafta10Pazartesi\\Hafta10Pazartesi.Ortak\\Hafta10Pazartesi.Ortak.csproj",
+      "projectUniqueName": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi.Ortak\\Hafta10Pazartesi.Ortak.csproj",
       "projectName": "Hafta10Pazartesi.Ortak",
-      "projectPath": "C:\\Users\\metin\\OneDrive - ISUBU\\Masaüstü\\PowerShell\\Hafta10Pazartesi\\Hafta10Pazartesi.Ortak\\Hafta10Pazartesi.Ortak.csproj",
+      "projectPath": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi.Ortak\\Hafta10Pazartesi.Ortak.csproj",
       "packagesPath": "C:\\Users\\metin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\metin\\OneDrive - ISUBU\\Masaüstü\\PowerShell\\Hafta10Pazartesi\\Hafta10Pazartesi.Ortak\\obj\\",
+      "outputPath": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi.Ortak\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
