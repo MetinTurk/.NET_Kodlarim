@@ -33,3 +33,6 @@ C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\Backend\FirstW
 C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\Backend\FirstWebApplication\FirstWebApplication\obj\Debug\net10.0\FirstWebApplication.pdb
 C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\Backend\FirstWebApplication\FirstWebApplication\obj\Debug\net10.0\FirstWebApplication.genruntimeconfig.cache
 C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\Backend\FirstWebApplication\FirstWebApplication\obj\Debug\net10.0\ref\FirstWebApplication.dll
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\Backend\FirstWebApplication\FirstWebApplication\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\Backend\FirstWebApplication\FirstWebApplication\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\Backend\FirstWebApplication\FirstWebApplication\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
