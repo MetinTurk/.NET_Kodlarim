@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\DosyaYonetimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B403-C844-0B58-9913-E3523865928C}|DosyaYonetimi\\DosyaYonetimi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\dosyayonetimi\\dosyayonetimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B403-C844-0B58-9913-E3523865928C}|DosyaYonetimi\\DosyaYonetimi.csproj|solutionrelative:dosyayonetimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B403-C844-0B58-9913-E3523865928C}|DosyaYonetimi\\DosyaYonetimi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\dosyayonetimi\\dosyayonetimi\\deneme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC11B403-C844-0B58-9913-E3523865928C}|DosyaYonetimi\\DosyaYonetimi.csproj|solutionrelative:dosyayonetimi\\deneme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deneme.txt",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\DosyaYonetimi\\DosyaYonetimi\\deneme.txt",
+              "RelativeDocumentMoniker": "DosyaYonetimi\\deneme.txt",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\DosyaYonetimi\\DosyaYonetimi\\deneme.txt",
+              "RelativeToolTip": "DosyaYonetimi\\deneme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-03T13:50:00.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\DosyaYonetimi\\DosyaYonetimi\\Program.cs",
+              "RelativeDocumentMoniker": "DosyaYonetimi\\Program.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\DosyaYonetimi\\DosyaYonetimi\\Program.cs*",
+              "RelativeToolTip": "DosyaYonetimi\\Program.cs*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAkwIgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:49:29.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
