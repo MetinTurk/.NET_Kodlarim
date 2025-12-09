@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\derskodlari\\hafta10pazartesi\\hafta10pazartesi\\models\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|solutionrelative:hafta10pazartesi\\models\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\derskodlari\\hafta10pazartesi\\hafta10pazartesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|solutionrelative:hafta10pazartesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0A94D22-997E-B995-BD93-62B0EDE8BBBF}|Hafta10Pazartesi.Ortak\\Hafta10Pazartesi.Ortak.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\derskodlari\\hafta10pazartesi\\hafta10pazartesi.ortak\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0A94D22-997E-B995-BD93-62B0EDE8BBBF}|Hafta10Pazartesi.Ortak\\Hafta10Pazartesi.Ortak.csproj|solutionrelative:hafta10pazartesi.ortak\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|solutionrelative:hafta10pazartesi\\models\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\derskodlari\\hafta10pazartesi\\hafta10pazartesi\\models\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|solutionrelative:hafta10pazartesi\\models\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\derskodlari\\hafta10pazartesi\\hafta10pazartesi\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|solutionrelative:hafta10pazartesi\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\derskodlari\\hafta10pazartesi\\hafta10pazartesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43D0FB7F-8768-D8BD-2D82-A8E17BD59673}|Hafta10Pazartesi\\Hafta10Pazartesi.csproj|solutionrelative:hafta10pazartesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Hafta10Pazartesi.Ortak.csproj",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi.Ortak\\Hafta10Pazartesi.Ortak.csproj",
               "RelativeDocumentMoniker": "Hafta10Pazartesi.Ortak\\Hafta10Pazartesi.Ortak.csproj",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Hafta10Pazartesi.csproj",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi\\Hafta10Pazartesi.csproj",
               "RelativeDocumentMoniker": "Hafta10Pazartesi\\Hafta10Pazartesi.csproj",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Marka.cs",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi.Ortak\\Marka.cs",
               "RelativeDocumentMoniker": "Hafta10Pazartesi.Ortak\\Marka.cs",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MailHelper.cs",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi.Ortak\\MailHelper.cs",
               "RelativeDocumentMoniker": "Hafta10Pazartesi.Ortak\\MailHelper.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MailHelper.cs",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi\\models\\MailHelper.cs",
               "RelativeDocumentMoniker": "Hafta10Pazartesi\\models\\MailHelper.cs",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi.Ortak\\Model.cs",
               "RelativeDocumentMoniker": "Hafta10Pazartesi.Ortak\\Model.cs",
@@ -123,19 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Kisi.cs",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi\\models\\Kisi.cs",
               "RelativeDocumentMoniker": "Hafta10Pazartesi\\models\\Kisi.cs",
               "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi\\models\\Kisi.cs",
               "RelativeToolTip": "Hafta10Pazartesi\\models\\Kisi.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwBQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T06:20:31.56Z"
+              "WhenOpened": "2025-11-24T06:20:31.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Urun.cs",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi\\models\\Urun.cs",
               "RelativeDocumentMoniker": "Hafta10Pazartesi\\models\\Urun.cs",
@@ -147,15 +148,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi\\Program.cs",
               "RelativeDocumentMoniker": "Hafta10Pazartesi\\Program.cs",
               "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta10Pazartesi\\Hafta10Pazartesi\\Program.cs",
               "RelativeToolTip": "Hafta10Pazartesi\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T05:45:22.903Z"
+              "WhenOpened": "2025-11-24T05:45:22.903Z",
+              "EditorCaption": ""
             }
           ]
         }

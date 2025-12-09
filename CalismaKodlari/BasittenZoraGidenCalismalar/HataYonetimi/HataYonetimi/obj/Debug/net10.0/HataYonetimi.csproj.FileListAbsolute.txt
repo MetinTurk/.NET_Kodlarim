@@ -1,0 +1,15 @@
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\bin\Debug\net10.0\HataYonetimi.exe
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\bin\Debug\net10.0\HataYonetimi.deps.json
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\bin\Debug\net10.0\HataYonetimi.runtimeconfig.json
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\bin\Debug\net10.0\HataYonetimi.dll
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\bin\Debug\net10.0\HataYonetimi.pdb
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\obj\Debug\net10.0\HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\obj\Debug\net10.0\HataYonetimi.AssemblyInfoInputs.cache
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\obj\Debug\net10.0\HataYonetimi.AssemblyInfo.cs
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\obj\Debug\net10.0\HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\obj\Debug\net10.0\HataYonetimi.sourcelink.json
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\obj\Debug\net10.0\HataYonetimi.dll
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\obj\Debug\net10.0\refint\HataYonetimi.dll
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\obj\Debug\net10.0\HataYonetimi.pdb
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\obj\Debug\net10.0\HataYonetimi.genruntimeconfig.cache
+C:\Users\metin\source\repos\BilgisayarProgramlama1\CalismaKodlari\BasittenZoraGidenCalismalar\HataYonetimi\HataYonetimi\obj\Debug\net10.0\ref\HataYonetimi.dll
