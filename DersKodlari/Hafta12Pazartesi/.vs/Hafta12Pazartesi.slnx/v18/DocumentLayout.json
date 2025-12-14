@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{F6BBB80E-3051-2DF0-56FC-A69FB1F1AF9B}|Hafta12Pazartesi\\Hafta12Pazartesi.csproj|solutionrelative:hafta12pazartesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6BBB80E-3051-2DF0-56FC-A69FB1F1AF9B}|Hafta12Pazartesi\\Hafta12Pazartesi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\derskodlari\\hafta12pazartesi\\hafta12pazartesi\\models\\isubuexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6BBB80E-3051-2DF0-56FC-A69FB1F1AF9B}|Hafta12Pazartesi\\Hafta12Pazartesi.csproj|solutionrelative:hafta12pazartesi\\models\\isubuexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6BBB80E-3051-2DF0-56FC-A69FB1F1AF9B}|Hafta12Pazartesi\\Hafta12Pazartesi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\derskodlari\\hafta12pazartesi\\hafta12pazartesi\\models\\myutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6BBB80E-3051-2DF0-56FC-A69FB1F1AF9B}|Hafta12Pazartesi\\Hafta12Pazartesi.csproj|solutionrelative:hafta12pazartesi\\models\\myutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BBB80E-3051-2DF0-56FC-A69FB1F1AF9B}|Hafta12Pazartesi\\Hafta12Pazartesi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\derskodlari\\hafta12pazartesi\\hafta12pazartesi\\models\\isubuexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BBB80E-3051-2DF0-56FC-A69FB1F1AF9B}|Hafta12Pazartesi\\Hafta12Pazartesi.csproj|solutionrelative:hafta12pazartesi\\models\\isubuexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IsubuException.cs",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta12Pazartesi\\Hafta12Pazartesi\\models\\IsubuException.cs",
               "RelativeDocumentMoniker": "Hafta12Pazartesi\\models\\IsubuException.cs",
@@ -38,12 +38,11 @@
               "RelativeToolTip": "Hafta12Pazartesi\\models\\IsubuException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T07:20:32.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T07:20:32.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MyUtility.cs",
               "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta12Pazartesi\\Hafta12Pazartesi\\models\\MyUtility.cs",
               "RelativeDocumentMoniker": "Hafta12Pazartesi\\models\\MyUtility.cs",
@@ -62,7 +61,7 @@
               "RelativeDocumentMoniker": "Hafta12Pazartesi\\models\\Ogrenci.cs",
               "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta12Pazartesi\\Hafta12Pazartesi\\models\\Ogrenci.cs",
               "RelativeToolTip": "Hafta12Pazartesi\\models\\Ogrenci.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwEAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T05:47:52.978Z",
               "EditorCaption": ""
@@ -75,7 +74,7 @@
               "RelativeDocumentMoniker": "Hafta12Pazartesi\\Program.cs",
               "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\DersKodlari\\Hafta12Pazartesi\\Hafta12Pazartesi\\Program.cs",
               "RelativeToolTip": "Hafta12Pazartesi\\Program.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAgwJMAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAiwMIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T05:41:30.09Z",
               "EditorCaption": ""

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\TrafikYonetimSistemiClassYapisi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB40D796-05CF-4D6B-81B7-769CAAC66223}|TrafikYonetimSistemiClassYapisi\\TrafikYonetimSistemiClassYapisi.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\basittenzoragidencalismalar\\trafikyonetimsistemiclassyapisi\\trafikyonetimsistemiclassyapisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB40D796-05CF-4D6B-81B7-769CAAC66223}|TrafikYonetimSistemiClassYapisi\\TrafikYonetimSistemiClassYapisi.csproj|solutionrelative:trafikyonetimsistemiclassyapisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\TrafikYonetimSistemiClassYapisi\\TrafikYonetimSistemiClassYapisi\\Program.cs",
+              "RelativeDocumentMoniker": "TrafikYonetimSistemiClassYapisi\\Program.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\BasittenZoraGidenCalismalar\\TrafikYonetimSistemiClassYapisi\\TrafikYonetimSistemiClassYapisi\\Program.cs",
+              "RelativeToolTip": "TrafikYonetimSistemiClassYapisi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:04:40.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
