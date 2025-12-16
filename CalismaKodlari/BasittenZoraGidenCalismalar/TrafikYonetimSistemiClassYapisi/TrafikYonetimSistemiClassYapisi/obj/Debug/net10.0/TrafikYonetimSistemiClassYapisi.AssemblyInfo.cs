@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrafikYonetimSistemiClassYapisi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72bee21b2017194f518da4677f0d622daadc9e76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+764eff9abddc4fd69d377b4660f7ab90f58b377e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrafikYonetimSistemiClassYapisi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrafikYonetimSistemiClassYapisi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

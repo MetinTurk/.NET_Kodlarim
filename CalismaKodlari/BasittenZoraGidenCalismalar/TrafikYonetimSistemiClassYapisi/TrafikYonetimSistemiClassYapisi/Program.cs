@@ -12,6 +12,7 @@ namespace TrafikYonetimSistemiClassYapisi
             PolisAraci polisAraci = new PolisAraci("26 AB 566", "Organize");
             PolisAraci polisAraciNarkotik = new PolisAraci("26 AB 854", "Narkotik");
             Console.WriteLine(PolisAraci.polisAraciSayisi);
+            Console.WriteLine("----------------------------");
             Garaj garaj = new Garaj();
             garaj.AracEkle(polisAraci);
             garaj.AracEkle(polisAraciNarkotik);
