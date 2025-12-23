@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\interfaceveerisimbelirleyiciler\\interfaceveerisimbelirleyiciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|solutionrelative:interfaceveerisimbelirleyiciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\interfaceveerisimbelirleyiciler\\interfaceveerisimbelirleyiciler\\telefondeposu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|solutionrelative:interfaceveerisimbelirleyiciler\\telefondeposu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\interfaceveerisimbelirleyiciler\\interfaceveerisimbelirleyiciler\\itelefondeposu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|solutionrelative:interfaceveerisimbelirleyiciler\\itelefondeposu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\interfaceveerisimbelirleyiciler\\interfaceveerisimbelirleyiciler\\idepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|solutionrelative:interfaceveerisimbelirleyiciler\\idepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\interfaceveerisimbelirleyiciler\\interfaceveerisimbelirleyiciler\\depo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|solutionrelative:interfaceveerisimbelirleyiciler\\depo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\interfaceveerisimbelirleyiciler\\interfaceveerisimbelirleyiciler\\telefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|solutionrelative:interfaceveerisimbelirleyiciler\\telefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\interfaceveerisimbelirleyiciler\\interfaceveerisimbelirleyiciler\\baseurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|solutionrelative:interfaceveerisimbelirleyiciler\\baseurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\interfaceveerisimbelirleyiciler\\interfaceveerisimbelirleyiciler\\iurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536FCF3B-7559-42B7-70BC-550ACD32BEDF}|InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler.csproj|solutionrelative:interfaceveerisimbelirleyiciler\\iurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelefonDeposu.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\TelefonDeposu.cs",
+              "RelativeDocumentMoniker": "InterfaceveErisimBelirleyiciler\\TelefonDeposu.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\TelefonDeposu.cs",
+              "RelativeToolTip": "InterfaceveErisimBelirleyiciler\\TelefonDeposu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:59:53.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITelefonDeposu.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\ITelefonDeposu.cs",
+              "RelativeDocumentMoniker": "InterfaceveErisimBelirleyiciler\\ITelefonDeposu.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\ITelefonDeposu.cs",
+              "RelativeToolTip": "InterfaceveErisimBelirleyiciler\\ITelefonDeposu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:56:47.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDepo.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\IDepo.cs",
+              "RelativeDocumentMoniker": "InterfaceveErisimBelirleyiciler\\IDepo.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\IDepo.cs",
+              "RelativeToolTip": "InterfaceveErisimBelirleyiciler\\IDepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:55:13.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Depo.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\Depo.cs",
+              "RelativeDocumentMoniker": "InterfaceveErisimBelirleyiciler\\Depo.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\Depo.cs",
+              "RelativeToolTip": "InterfaceveErisimBelirleyiciler\\Depo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:39:34.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Telefon.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\Telefon.cs",
+              "RelativeDocumentMoniker": "InterfaceveErisimBelirleyiciler\\Telefon.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\Telefon.cs",
+              "RelativeToolTip": "InterfaceveErisimBelirleyiciler\\Telefon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:29:10.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseUrun.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\BaseUrun.cs",
+              "RelativeDocumentMoniker": "InterfaceveErisimBelirleyiciler\\BaseUrun.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\BaseUrun.cs",
+              "RelativeToolTip": "InterfaceveErisimBelirleyiciler\\BaseUrun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:39:32.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUrun.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\IUrun.cs",
+              "RelativeDocumentMoniker": "InterfaceveErisimBelirleyiciler\\IUrun.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\IUrun.cs",
+              "RelativeToolTip": "InterfaceveErisimBelirleyiciler\\IUrun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:37:32.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceveErisimBelirleyiciler\\Program.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\InterfaceveErisimBelirleyiciler\\InterfaceveErisimBelirleyiciler\\Program.cs",
+              "RelativeToolTip": "InterfaceveErisimBelirleyiciler\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:37:04.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

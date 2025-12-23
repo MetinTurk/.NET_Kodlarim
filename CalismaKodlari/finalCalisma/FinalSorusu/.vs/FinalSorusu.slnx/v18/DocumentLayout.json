@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finalsorusu\\finalsorusu\\iogrencirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|solutionrelative:finalsorusu\\iogrencirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finalsorusu\\finalsorusu\\ogrencirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|solutionrelative:finalsorusu\\ogrencirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finalsorusu\\finalsorusu\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|solutionrelative:finalsorusu\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finalsorusu\\finalsorusu\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|solutionrelative:finalsorusu\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finalsorusu\\finalsorusu\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|solutionrelative:finalsorusu\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finalsorusu\\finalsorusu\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|solutionrelative:finalsorusu\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finalsorusu\\finalsorusu\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|solutionrelative:finalsorusu\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finalsorusu\\finalsorusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378EE0AB-8D01-48F9-B485-5583CB939E4E}|FinalSorusu\\FinalSorusu.csproj|solutionrelative:finalsorusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgrenciRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\OgrenciRepository.cs",
+              "RelativeDocumentMoniker": "FinalSorusu\\OgrenciRepository.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\OgrenciRepository.cs",
+              "RelativeToolTip": "FinalSorusu\\OgrenciRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:22:46.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOgrenciRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\IOgrenciRepository.cs",
+              "RelativeDocumentMoniker": "FinalSorusu\\IOgrenciRepository.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\IOgrenciRepository.cs",
+              "RelativeToolTip": "FinalSorusu\\IOgrenciRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:19:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "FinalSorusu\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\Ogrenci.cs",
+              "RelativeToolTip": "FinalSorusu\\Ogrenci.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:14:35.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "FinalSorusu\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\BaseRepository.cs",
+              "RelativeToolTip": "FinalSorusu\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:10:12.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\IRepository.cs",
+              "RelativeDocumentMoniker": "FinalSorusu\\IRepository.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\IRepository.cs",
+              "RelativeToolTip": "FinalSorusu\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:06:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FinalSorusu\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\BaseEntity.cs",
+              "RelativeToolTip": "FinalSorusu\\BaseEntity.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:03:41.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\IEntity.cs",
+              "RelativeDocumentMoniker": "FinalSorusu\\IEntity.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\IEntity.cs",
+              "RelativeToolTip": "FinalSorusu\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:02:08.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\Program.cs",
+              "RelativeDocumentMoniker": "FinalSorusu\\Program.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalSorusu\\FinalSorusu\\Program.cs",
+              "RelativeToolTip": "FinalSorusu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:01:09.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
