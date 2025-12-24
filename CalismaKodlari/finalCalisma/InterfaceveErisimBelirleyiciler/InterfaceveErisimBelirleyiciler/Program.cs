@@ -10,6 +10,7 @@
             Console.WriteLine(UsAl(5));
 
             Console.WriteLine(TersCevir("merhaba"));
+            //tersine çevirme fonsk kullanımı
         }
 
 
@@ -21,6 +22,9 @@
             }
             return 2 * UsAl(kuvvet - 1);
         }
+
+
+
 
         public static string TersCevir(string kelime)
         {
