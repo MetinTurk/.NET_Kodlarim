@@ -1,0 +1,15 @@
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\bin\Debug\net10.0\EsnekOdemeSistemi.exe
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\bin\Debug\net10.0\EsnekOdemeSistemi.deps.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\bin\Debug\net10.0\EsnekOdemeSistemi.runtimeconfig.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\bin\Debug\net10.0\EsnekOdemeSistemi.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\bin\Debug\net10.0\EsnekOdemeSistemi.pdb
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\obj\Debug\net10.0\EsnekOdemeSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\obj\Debug\net10.0\EsnekOdemeSistemi.AssemblyInfoInputs.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\obj\Debug\net10.0\EsnekOdemeSistemi.AssemblyInfo.cs
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\obj\Debug\net10.0\EsnekOdemeSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\obj\Debug\net10.0\EsnekOdemeSistemi.sourcelink.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\obj\Debug\net10.0\EsnekOdemeSistemi.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\obj\Debug\net10.0\refint\EsnekOdemeSistemi.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\obj\Debug\net10.0\EsnekOdemeSistemi.pdb
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\obj\Debug\net10.0\EsnekOdemeSistemi.genruntimeconfig.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\EsnekOdemeSistemi\EsnekOdemeSistemi\obj\Debug\net10.0\ref\EsnekOdemeSistemi.dll
