@@ -29,12 +29,11 @@
         public static string TersCevir(string kelime)
         {
             
-            if(kelime.Length == 2)
+            if(kelime.Length <= 1)
             {
                 return kelime;
             }
-            kelime = kelime.Substring(0,kelime.Length- 1);
-            return kelime[kelime.Length] + TersCevir(kelime);
+            return kelime[kelime.Length-1] + TersCevir(kelime.Substring(0, kelime.Length - 1));
         }
     }
 }
