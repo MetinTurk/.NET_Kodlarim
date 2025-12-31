@@ -1,0 +1,15 @@
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\bin\Debug\net10.0\Hafta14Pazartesi.exe
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\bin\Debug\net10.0\Hafta14Pazartesi.deps.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\bin\Debug\net10.0\Hafta14Pazartesi.runtimeconfig.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\bin\Debug\net10.0\Hafta14Pazartesi.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\bin\Debug\net10.0\Hafta14Pazartesi.pdb
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\obj\Debug\net10.0\Hafta14Pazartesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\obj\Debug\net10.0\Hafta14Pazartesi.AssemblyInfoInputs.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\obj\Debug\net10.0\Hafta14Pazartesi.AssemblyInfo.cs
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\obj\Debug\net10.0\Hafta14Pazartesi.csproj.CoreCompileInputs.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\obj\Debug\net10.0\Hafta14Pazartesi.sourcelink.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\obj\Debug\net10.0\Hafta14Pazartesi.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\obj\Debug\net10.0\refint\Hafta14Pazartesi.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\obj\Debug\net10.0\Hafta14Pazartesi.pdb
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\obj\Debug\net10.0\Hafta14Pazartesi.genruntimeconfig.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\DersKodlari\Hafta14Pazartesi\Hafta14Pazartesi\obj\Debug\net10.0\ref\Hafta14Pazartesi.dll
