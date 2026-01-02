@@ -7,6 +7,7 @@ namespace FinalSorusuTekrar
     internal interface IRepository<TEntity , Tkey> where TEntity : IEntity<Tkey>
     {
         TEntity GetById(Tkey key);
+
         List<TEntity> GetAll();
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalSorusuTekrar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6754f0120d2f4e4a2827fb30959be35725eda169")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c24fea1df35475ba6faf4eaf9f89b4a750038f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalSorusuTekrar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalSorusuTekrar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
