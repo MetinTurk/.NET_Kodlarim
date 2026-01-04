@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\",
+  "WorkspaceRootPath": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\baglama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\agacturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\agacturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\agacturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaparcalari\\kapak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\baglama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaparcalari\\kapak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\baglamaparcalari\\kapak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaparcalari\\govde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaparcalari\\govde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\baglamaparcalari\\govde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaturleri\\kisasapbaglama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaturleri\\kisasapbaglama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\baglamaturleri\\kisasapbaglama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaturleri\\cura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaturleri\\cura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\baglamaturleri\\cura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaparcalari\\tekne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaparcalari\\tekne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\baglamaparcalari\\tekne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaparcalari\\sap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaparcalari\\sap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\baglamaparcalari\\sap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaparcalari\\burgu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamaparcalari\\burgu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\baglamaparcalari\\burgu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamasorusu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\baglamasorusu\\baglamasorusu\\baglamasorusu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{62B85F04-BF67-C1A1-B5BD-D70681FAE05E}|BaglamaSorusu\\BaglamaSorusu.csproj|solutionrelative:baglamasorusu\\baglamasorusu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -54,15 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "KisaSapBaglama.cs",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\baglamaTurleri\\KisaSapBaglama.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\baglamaTurleri\\KisaSapBaglama.cs",
               "RelativeDocumentMoniker": "BaglamaSorusu\\baglamaTurleri\\KisaSapBaglama.cs",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\baglamaTurleri\\KisaSapBaglama.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\baglamaTurleri\\KisaSapBaglama.cs",
               "RelativeToolTip": "BaglamaSorusu\\baglamaTurleri\\KisaSapBaglama.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Cura.cs",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\baglamaTurleri\\Cura.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\baglamaTurleri\\Cura.cs",
               "RelativeDocumentMoniker": "BaglamaSorusu\\baglamaTurleri\\Cura.cs",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\baglamaTurleri\\Cura.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\baglamaTurleri\\Cura.cs",
               "RelativeToolTip": "BaglamaSorusu\\baglamaTurleri\\Cura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,35 +84,33 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Govde.cs",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Govde.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Govde.cs",
               "RelativeDocumentMoniker": "BaglamaSorusu\\BaglamaParcalari\\Govde.cs",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Govde.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Govde.cs",
               "RelativeToolTip": "BaglamaSorusu\\BaglamaParcalari\\Govde.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:21:09.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T07:21:09.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Baglama.cs",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\Baglama.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\Baglama.cs",
               "RelativeDocumentMoniker": "BaglamaSorusu\\Baglama.cs",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\Baglama.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\Baglama.cs",
               "RelativeToolTip": "BaglamaSorusu\\Baglama.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:14:10.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T07:14:10.349Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Burgu.cs",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Burgu.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Burgu.cs",
               "RelativeDocumentMoniker": "BaglamaSorusu\\BaglamaParcalari\\Burgu.cs",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Burgu.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Burgu.cs",
               "RelativeToolTip": "BaglamaSorusu\\BaglamaParcalari\\Burgu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Sap.cs",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Sap.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Sap.cs",
               "RelativeDocumentMoniker": "BaglamaSorusu\\BaglamaParcalari\\Sap.cs",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Sap.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Sap.cs",
               "RelativeToolTip": "BaglamaSorusu\\BaglamaParcalari\\Sap.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,22 +132,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Kapak.cs",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Kapak.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Kapak.cs",
               "RelativeDocumentMoniker": "BaglamaSorusu\\BaglamaParcalari\\Kapak.cs",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Kapak.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Kapak.cs",
               "RelativeToolTip": "BaglamaSorusu\\BaglamaParcalari\\Kapak.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:12:27.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T07:12:27.017Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Tekne.cs",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Tekne.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Tekne.cs",
               "RelativeDocumentMoniker": "BaglamaSorusu\\BaglamaParcalari\\Tekne.cs",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Tekne.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaParcalari\\Tekne.cs",
               "RelativeToolTip": "BaglamaSorusu\\BaglamaParcalari\\Tekne.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,9 +156,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "BaglamaSorusu.csproj",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaSorusu.csproj",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaSorusu.csproj",
               "RelativeDocumentMoniker": "BaglamaSorusu\\BaglamaSorusu.csproj",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaSorusu.csproj",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\BaglamaSorusu.csproj",
               "RelativeToolTip": "BaglamaSorusu\\BaglamaSorusu.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -169,11 +166,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AgacTurleri.cs",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\AgacTurleri.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\AgacTurleri.cs",
               "RelativeDocumentMoniker": "BaglamaSorusu\\AgacTurleri.cs",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\AgacTurleri.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\AgacTurleri.cs",
               "RelativeToolTip": "BaglamaSorusu\\AgacTurleri.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\Program.cs",
               "RelativeDocumentMoniker": "BaglamaSorusu\\Program.cs",
-              "ToolTip": "C:\\Users\\metin\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\Program.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\BaglamaSorusu\\BaglamaSorusu\\Program.cs",
               "RelativeToolTip": "BaglamaSorusu\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

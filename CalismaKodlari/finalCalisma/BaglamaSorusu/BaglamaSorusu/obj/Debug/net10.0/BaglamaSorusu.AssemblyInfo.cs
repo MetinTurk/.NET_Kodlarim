@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaglamaSorusu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44c9970fb67a778b9e096ce4460689eb9b643a72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6579effbd791ef81267707da881d0db2e650a116")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaglamaSorusu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaglamaSorusu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

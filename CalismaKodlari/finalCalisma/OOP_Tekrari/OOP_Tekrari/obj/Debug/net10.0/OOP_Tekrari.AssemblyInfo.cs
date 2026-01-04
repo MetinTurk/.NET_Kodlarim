@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP_Tekrari")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+624a50341975d95f3fa8aa8f0709a039ef3a444b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6579effbd791ef81267707da881d0db2e650a116")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP_Tekrari")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP_Tekrari")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

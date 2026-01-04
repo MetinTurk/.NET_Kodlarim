@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterfaceveErisimBelirleyiciler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6754f0120d2f4e4a2827fb30959be35725eda169")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6579effbd791ef81267707da881d0db2e650a116")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterfaceveErisimBelirleyiciler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterfaceveErisimBelirleyiciler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

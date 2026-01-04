@@ -1,0 +1,15 @@
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\bin\Debug\net10.0\OOP_Tekrari.exe
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\bin\Debug\net10.0\OOP_Tekrari.deps.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\bin\Debug\net10.0\OOP_Tekrari.runtimeconfig.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\bin\Debug\net10.0\OOP_Tekrari.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\bin\Debug\net10.0\OOP_Tekrari.pdb
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\obj\Debug\net10.0\OOP_Tekrari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\obj\Debug\net10.0\OOP_Tekrari.AssemblyInfoInputs.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\obj\Debug\net10.0\OOP_Tekrari.AssemblyInfo.cs
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\obj\Debug\net10.0\OOP_Tekrari.csproj.CoreCompileInputs.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\obj\Debug\net10.0\OOP_Tekrari.sourcelink.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\obj\Debug\net10.0\OOP_Tekrari.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\obj\Debug\net10.0\refint\OOP_Tekrari.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\obj\Debug\net10.0\OOP_Tekrari.pdb
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\obj\Debug\net10.0\OOP_Tekrari.genruntimeconfig.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\OOP_Tekrari\OOP_Tekrari\obj\Debug\net10.0\ref\OOP_Tekrari.dll
