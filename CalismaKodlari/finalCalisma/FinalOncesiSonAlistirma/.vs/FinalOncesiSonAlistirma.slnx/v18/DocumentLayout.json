@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finaloncesisonalistirma\\finaloncesisonalistirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|solutionrelative:finaloncesisonalistirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finaloncesisonalistirma\\finaloncesisonalistirma\\akillifabrika\\cihazdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|solutionrelative:finaloncesisonalistirma\\akillifabrika\\cihazdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finaloncesisonalistirma\\finaloncesisonalistirma\\finalbenzer\\karaktersinifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|solutionrelative:finaloncesisonalistirma\\finalbenzer\\karaktersinifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finaloncesisonalistirma\\finaloncesisonalistirma\\finaloncesisonalistirma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|solutionrelative:finaloncesisonalistirma\\finaloncesisonalistirma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finaloncesisonalistirma\\finaloncesisonalistirma\\finalbenzer\\takim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|solutionrelative:finaloncesisonalistirma\\finalbenzer\\takim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finaloncesisonalistirma\\finaloncesisonalistirma\\finalbenzer\\oyunsunucusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|solutionrelative:finaloncesisonalistirma\\finalbenzer\\oyunsunucusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finaloncesisonalistirma\\finaloncesisonalistirma\\finalbenzer\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|solutionrelative:finaloncesisonalistirma\\finalbenzer\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finaloncesisonalistirma\\finaloncesisonalistirma\\finalbenzer\\ihasarhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|solutionrelative:finaloncesisonalistirma\\finalbenzer\\ihasarhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\finaloncesisonalistirma\\finaloncesisonalistirma\\finalbenzer\\arenahasarhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA35252-0567-47A4-BA72-09E50E73AB9B}|FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj|solutionrelative:finaloncesisonalistirma\\finalbenzer\\arenahasarhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CihazDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\AkilliFabrika\\CihazDurumu.cs",
+              "RelativeDocumentMoniker": "FinalOncesiSonAlistirma\\AkilliFabrika\\CihazDurumu.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\AkilliFabrika\\CihazDurumu.cs",
+              "RelativeToolTip": "FinalOncesiSonAlistirma\\AkilliFabrika\\CihazDurumu.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA9wFwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:47:43.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinalOncesiSonAlistirma",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj",
+              "RelativeDocumentMoniker": "FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj",
+              "RelativeToolTip": "FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T10:47:10.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OyunSunucusu.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\OyunSunucusu.cs",
+              "RelativeDocumentMoniker": "FinalOncesiSonAlistirma\\finalBenzer\\OyunSunucusu.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\OyunSunucusu.cs",
+              "RelativeToolTip": "FinalOncesiSonAlistirma\\finalBenzer\\OyunSunucusu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:12:00.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArenaHasarHesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\ArenaHasarHesaplayici.cs",
+              "RelativeDocumentMoniker": "FinalOncesiSonAlistirma\\finalBenzer\\ArenaHasarHesaplayici.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\ArenaHasarHesaplayici.cs",
+              "RelativeToolTip": "FinalOncesiSonAlistirma\\finalBenzer\\ArenaHasarHesaplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:52:20.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHasarHesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\IHasarHesaplayici.cs",
+              "RelativeDocumentMoniker": "FinalOncesiSonAlistirma\\finalBenzer\\IHasarHesaplayici.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\IHasarHesaplayici.cs",
+              "RelativeToolTip": "FinalOncesiSonAlistirma\\finalBenzer\\IHasarHesaplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:36:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Takim.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\Takim.cs",
+              "RelativeDocumentMoniker": "FinalOncesiSonAlistirma\\finalBenzer\\Takim.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\Takim.cs",
+              "RelativeToolTip": "FinalOncesiSonAlistirma\\finalBenzer\\Takim.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:26:32.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Karakter.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\Karakter.cs",
+              "RelativeDocumentMoniker": "FinalOncesiSonAlistirma\\finalBenzer\\Karakter.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\Karakter.cs",
+              "RelativeToolTip": "FinalOncesiSonAlistirma\\finalBenzer\\Karakter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:11:51.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KarakterSinifi.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\KarakterSinifi.cs",
+              "RelativeDocumentMoniker": "FinalOncesiSonAlistirma\\finalBenzer\\KarakterSinifi.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\finalBenzer\\KarakterSinifi.cs",
+              "RelativeToolTip": "FinalOncesiSonAlistirma\\finalBenzer\\KarakterSinifi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:10:24.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\Program.cs",
+              "RelativeDocumentMoniker": "FinalOncesiSonAlistirma\\Program.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\FinalOncesiSonAlistirma\\FinalOncesiSonAlistirma\\Program.cs",
+              "RelativeToolTip": "FinalOncesiSonAlistirma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:03:59.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

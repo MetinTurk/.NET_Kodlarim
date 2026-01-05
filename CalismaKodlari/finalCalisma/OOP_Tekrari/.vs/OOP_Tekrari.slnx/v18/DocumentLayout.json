@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\oop_tekrari\\oop_tekrari\\pistioyunu\\simge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|solutionrelative:oop_tekrari\\pistioyunu\\simge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\oop_tekrari\\oop_tekrari\\pistioyunu\\el.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|solutionrelative:oop_tekrari\\pistioyunu\\el.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\oop_tekrari\\oop_tekrari\\pistioyunu\\deste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|solutionrelative:oop_tekrari\\pistioyunu\\deste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\oop_tekrari\\oop_tekrari\\pistioyunu\\pistipuanhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|solutionrelative:oop_tekrari\\pistioyunu\\pistipuanhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\oop_tekrari\\oop_tekrari\\pistioyunu\\kart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|solutionrelative:oop_tekrari\\pistioyunu\\kart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\oop_tekrari\\oop_tekrari\\pistioyunu\\ipuanhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|solutionrelative:oop_tekrari\\pistioyunu\\ipuanhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|c:\\users\\metin23\\source\\repos\\bilgisayarprogramlama1\\calismakodlari\\finalcalisma\\oop_tekrari\\oop_tekrari\\liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE818211-895F-3594-236E-A039AE058D49}|OOP_Tekrari\\OOP_Tekrari.csproj|solutionrelative:oop_tekrari\\liste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -154,11 +178,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deste.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\Deste.cs",
+              "RelativeDocumentMoniker": "OOP_Tekrari\\PistiOyunu\\Deste.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\Deste.cs",
+              "RelativeToolTip": "OOP_Tekrari\\PistiOyunu\\Deste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T22:03:10.991Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PistiPuanHesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\PistiPuanHesaplayici.cs",
+              "RelativeDocumentMoniker": "OOP_Tekrari\\PistiOyunu\\PistiPuanHesaplayici.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\PistiPuanHesaplayici.cs",
+              "RelativeToolTip": "OOP_Tekrari\\PistiOyunu\\PistiPuanHesaplayici.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:54:11.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPuanHesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\IPuanHesaplayici.cs",
+              "RelativeDocumentMoniker": "OOP_Tekrari\\PistiOyunu\\IPuanHesaplayici.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\IPuanHesaplayici.cs",
+              "RelativeToolTip": "OOP_Tekrari\\PistiOyunu\\IPuanHesaplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:52:12.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "El.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\El.cs",
+              "RelativeDocumentMoniker": "OOP_Tekrari\\PistiOyunu\\El.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\El.cs",
+              "RelativeToolTip": "OOP_Tekrari\\PistiOyunu\\El.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:40:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kart.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\Kart.cs",
+              "RelativeDocumentMoniker": "OOP_Tekrari\\PistiOyunu\\Kart.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\Kart.cs",
+              "RelativeToolTip": "OOP_Tekrari\\PistiOyunu\\Kart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:31:21.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simge.cs",
+              "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\Simge.cs",
+              "RelativeDocumentMoniker": "OOP_Tekrari\\PistiOyunu\\Simge.cs",
+              "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\PistiOyunu\\Simge.cs",
+              "RelativeToolTip": "OOP_Tekrari\\PistiOyunu\\Simge.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:26:49.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "VeriEklemeHatasi.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\MuzikPlatformu\\VeriEklemeHatasi.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\MuzikPlatformu\\VeriEklemeHatasi.cs",
@@ -166,12 +264,11 @@
               "RelativeToolTip": "OOP_Tekrari\\MuzikPlatformu\\VeriEklemeHatasi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T18:32:32.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T18:32:32.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "CalmaListesi.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\MuzikPlatformu\\CalmaListesi.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\MuzikPlatformu\\CalmaListesi.cs",
@@ -179,12 +276,11 @@
               "RelativeToolTip": "OOP_Tekrari\\MuzikPlatformu\\CalmaListesi.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T18:21:02.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T18:21:02.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Podcast.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\MuzikPlatformu\\Podcast.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\MuzikPlatformu\\Podcast.cs",
@@ -192,12 +288,11 @@
               "RelativeToolTip": "OOP_Tekrari\\MuzikPlatformu\\Podcast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T18:19:54.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T18:19:54.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Sarki.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\MuzikPlatformu\\Sarki.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\MuzikPlatformu\\Sarki.cs",
@@ -205,12 +300,11 @@
               "RelativeToolTip": "OOP_Tekrari\\MuzikPlatformu\\Sarki.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T18:18:46.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T18:18:46.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "MedyaOgesi.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\MuzikPlatformu\\MedyaOgesi.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\MuzikPlatformu\\MedyaOgesi.cs",
@@ -218,12 +312,11 @@
               "RelativeToolTip": "OOP_Tekrari\\MuzikPlatformu\\MedyaOgesi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T18:12:31.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T18:12:31.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "IMedya.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\MuzikPlatformu\\IMedya.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\MuzikPlatformu\\IMedya.cs",
@@ -231,12 +324,11 @@
               "RelativeToolTip": "OOP_Tekrari\\MuzikPlatformu\\IMedya.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T18:02:51.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T18:02:51.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Konteyner.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\AkilliKonteyner\\Konteyner.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\AkilliKonteyner\\Konteyner.cs",
@@ -244,12 +336,11 @@
               "RelativeToolTip": "OOP_Tekrari\\AkilliKonteyner\\Konteyner.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowDQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T16:01:42.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T16:01:42.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Koli.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\AkilliKonteyner\\Koli.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\AkilliKonteyner\\Koli.cs",
@@ -257,12 +348,11 @@
               "RelativeToolTip": "OOP_Tekrari\\AkilliKonteyner\\Koli.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T16:00:38.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T16:00:38.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "AgirlikHatasi.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\AkilliKonteyner\\AgirlikHatasi.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\AkilliKonteyner\\AgirlikHatasi.cs",
@@ -270,12 +360,11 @@
               "RelativeToolTip": "OOP_Tekrari\\AkilliKonteyner\\AgirlikHatasi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T16:00:03.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T16:00:03.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "IYuk.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\AkilliKonteyner\\IYuk.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\AkilliKonteyner\\IYuk.cs",
@@ -283,38 +372,35 @@
               "RelativeToolTip": "OOP_Tekrari\\AkilliKonteyner\\IYuk.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T15:58:42.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T15:58:42.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "IListe.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\IListe.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\IListe.cs",
               "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\IListe.cs",
               "RelativeToolTip": "OOP_Tekrari\\IListe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T20:57:06.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T20:57:06.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Liste.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\Liste.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\Liste.cs",
               "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\Liste.cs",
               "RelativeToolTip": "OOP_Tekrari\\Liste.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDUAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T21:00:07.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T21:00:07.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Enumlar.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Enumlar.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Enumlar.cs",
@@ -322,12 +408,11 @@
               "RelativeToolTip": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Enumlar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T13:05:41.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T13:05:41.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Bilgisayar.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Bilgisayar.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Bilgisayar.cs",
@@ -335,12 +420,11 @@
               "RelativeToolTip": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Bilgisayar.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA8wBMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T13:54:27.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T13:54:27.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "EkranKarti.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\BilgisayarToplamaSihirbazi\\EkranKarti.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\EkranKarti.cs",
@@ -348,12 +432,11 @@
               "RelativeToolTip": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\EkranKarti.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T12:53:16.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:53:16.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Ram.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Ram.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Ram.cs",
@@ -361,12 +444,11 @@
               "RelativeToolTip": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Ram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T12:53:04.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:53:04.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Islemci.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Islemci.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Islemci.cs",
@@ -374,12 +456,11 @@
               "RelativeToolTip": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Islemci.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T12:52:56.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:52:56.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "IDepo.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\GenericOzelVeriYapisi\\IDepo.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\GenericOzelVeriYapisi\\IDepo.cs",
@@ -387,12 +468,11 @@
               "RelativeToolTip": "OOP_Tekrari\\GenericOzelVeriYapisi\\IDepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T11:43:50.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T11:43:50.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Kasa.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Kasa.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Kasa.cs",
@@ -400,12 +480,11 @@
               "RelativeToolTip": "OOP_Tekrari\\BilgisayarToplamaSihirbazi\\Kasa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T12:53:28.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T12:53:28.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "DepoYoneticisi.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\GenericOzelVeriYapisi\\DepoYoneticisi.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\GenericOzelVeriYapisi\\DepoYoneticisi.cs",
@@ -413,12 +492,11 @@
               "RelativeToolTip": "OOP_Tekrari\\GenericOzelVeriYapisi\\DepoYoneticisi.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T11:42:06.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T11:42:06.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "CihazYonetici.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\NesnelerinInterneti\\CihazYonetici.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\NesnelerinInterneti\\CihazYonetici.cs",
@@ -426,12 +504,11 @@
               "RelativeToolTip": "OOP_Tekrari\\NesnelerinInterneti\\CihazYonetici.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAwwCsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T10:30:17.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T10:30:17.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "AkilliLamba.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\NesnelerinInterneti\\AkilliLamba.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\NesnelerinInterneti\\AkilliLamba.cs",
@@ -439,12 +516,11 @@
               "RelativeToolTip": "OOP_Tekrari\\NesnelerinInterneti\\AkilliLamba.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T09:32:09.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T09:32:09.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\Program.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\Program.cs",
@@ -452,12 +528,11 @@
               "RelativeToolTip": "OOP_Tekrari\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T19:51:34.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T19:51:34.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "AkilliCihaz.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\NesnelerinInterneti\\AkilliCihaz.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\NesnelerinInterneti\\AkilliCihaz.cs",
@@ -465,12 +540,11 @@
               "RelativeToolTip": "OOP_Tekrari\\NesnelerinInterneti\\AkilliCihaz.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T09:24:44.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T09:24:44.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "ICihaz.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\NesnelerinInterneti\\ICihaz.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\NesnelerinInterneti\\ICihaz.cs",
@@ -478,12 +552,11 @@
               "RelativeToolTip": "OOP_Tekrari\\NesnelerinInterneti\\ICihaz.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T09:23:18.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T09:23:18.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "SiparisDeposu.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\SiparisDeposu.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\SiparisDeposu.cs",
@@ -491,12 +564,11 @@
               "RelativeToolTip": "OOP_Tekrari\\SiparisDeposu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T07:34:42.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T07:34:42.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "ISiparisDeposu.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\ISiparisDeposu.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\ISiparisDeposu.cs",
@@ -504,12 +576,11 @@
               "RelativeToolTip": "OOP_Tekrari\\ISiparisDeposu.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T07:30:51.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T07:30:51.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "Siparis.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\Siparis.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\Siparis.cs",
@@ -517,12 +588,11 @@
               "RelativeToolTip": "OOP_Tekrari\\Siparis.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T07:28:54.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T07:28:54.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "TemelDepo.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\TemelDepo.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\TemelDepo.cs",
@@ -530,12 +600,11 @@
               "RelativeToolTip": "OOP_Tekrari\\TemelDepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T07:20:50.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T07:20:50.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "IVeriDeposu.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\IVeriDeposu.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\IVeriDeposu.cs",
@@ -543,25 +612,23 @@
               "RelativeToolTip": "OOP_Tekrari\\IVeriDeposu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T07:17:46.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T07:17:46.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "OOP_Tekrari",
+              "DocumentIndex": 41,
+              "Title": "OOP_Tekrari.csproj",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\OOP_Tekrari.csproj",
               "RelativeDocumentMoniker": "OOP_Tekrari\\OOP_Tekrari.csproj",
               "ToolTip": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\OOP_Tekrari.csproj",
               "RelativeToolTip": "OOP_Tekrari\\OOP_Tekrari.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-03T20:58:53.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T20:58:53.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "TemelNesne.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\TemelNesne.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\TemelNesne.cs",
@@ -569,12 +636,11 @@
               "RelativeToolTip": "OOP_Tekrari\\TemelNesne.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T07:16:04.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T07:16:04.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "IKayitNesnesi.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\IKayitNesnesi.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\IKayitNesnesi.cs",
@@ -582,12 +648,11 @@
               "RelativeToolTip": "OOP_Tekrari\\IKayitNesnesi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T07:14:13.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T07:14:13.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "Deste.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\Deste.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\Deste.cs",
@@ -595,12 +660,11 @@
               "RelativeToolTip": "OOP_Tekrari\\Deste.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAUwCMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T23:23:51.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T23:23:51.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "IKart.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\IKart.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\IKart.cs",
@@ -608,12 +672,11 @@
               "RelativeToolTip": "OOP_Tekrari\\IKart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T23:20:27.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T23:20:27.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "OyunKarti.cs",
               "DocumentMoniker": "C:\\Users\\Metin23\\source\\repos\\BilgisayarProgramlama1\\CalismaKodlari\\finalCalisma\\OOP_Tekrari\\OOP_Tekrari\\OyunKarti.cs",
               "RelativeDocumentMoniker": "OOP_Tekrari\\OyunKarti.cs",
@@ -621,8 +684,7 @@
               "RelativeToolTip": "OOP_Tekrari\\OyunKarti.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T23:22:08.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T23:22:08.787Z"
             }
           ]
         }

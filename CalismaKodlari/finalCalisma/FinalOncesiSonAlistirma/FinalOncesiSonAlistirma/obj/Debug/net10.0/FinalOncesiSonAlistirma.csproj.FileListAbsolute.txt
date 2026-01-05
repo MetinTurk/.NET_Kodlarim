@@ -1,0 +1,15 @@
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\bin\Debug\net10.0\FinalOncesiSonAlistirma.exe
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\bin\Debug\net10.0\FinalOncesiSonAlistirma.deps.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\bin\Debug\net10.0\FinalOncesiSonAlistirma.runtimeconfig.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\bin\Debug\net10.0\FinalOncesiSonAlistirma.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\bin\Debug\net10.0\FinalOncesiSonAlistirma.pdb
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\obj\Debug\net10.0\FinalOncesiSonAlistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\obj\Debug\net10.0\FinalOncesiSonAlistirma.AssemblyInfoInputs.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\obj\Debug\net10.0\FinalOncesiSonAlistirma.AssemblyInfo.cs
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\obj\Debug\net10.0\FinalOncesiSonAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\obj\Debug\net10.0\FinalOncesiSonAlistirma.sourcelink.json
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\obj\Debug\net10.0\FinalOncesiSonAlistirma.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\obj\Debug\net10.0\refint\FinalOncesiSonAlistirma.dll
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\obj\Debug\net10.0\FinalOncesiSonAlistirma.pdb
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\obj\Debug\net10.0\FinalOncesiSonAlistirma.genruntimeconfig.cache
+C:\Users\Metin23\source\repos\BilgisayarProgramlama1\CalismaKodlari\finalCalisma\FinalOncesiSonAlistirma\FinalOncesiSonAlistirma\obj\Debug\net10.0\ref\FinalOncesiSonAlistirma.dll
